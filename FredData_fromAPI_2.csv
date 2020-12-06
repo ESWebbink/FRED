@@ -1,0 +1,1064 @@
+Gen1_id,Gen2_id,Gen3_id,Gen4_id,Gen4,Gen3,Gen2,Gen1,id_0_parent
+1,32429,32431,NA,NA,New Orders,Manufacturing,Production & Business Activity,0
+1,32429,32434,NA,NA,Unfilled Orders to Shipments,Manufacturing,Production & Business Activity,0
+1,97,32304,NA,NA,Housing Units Completed,Housing,Production & Business Activity,0
+1,33490,NA,NA,NA,NA,Finance Companies,Production & Business Activity,0
+1,32429,32435,NA,NA,Unfilled Orders,Manufacturing,Production & Business Activity,0
+1,3,33938,NA,NA,Automotive Production Seasonal Factor,Industrial Production & Capacity Utilization,Production & Business Activity,0
+1,33203,NA,NA,NA,NA,Wholesale Trade,Production & Business Activity,0
+1,97,32302,NA,NA,Housing Starts,Housing,Production & Business Activity,0
+1,33492,NA,NA,NA,NA,Technology,Production & Business Activity,0
+1,33441,NA,NA,NA,NA,Services,Production & Business Activity,0
+1,97,33949,NA,NA,Manufactured Housing,Housing,Production & Business Activity,0
+1,32436,NA,NA,NA,NA,Construction,Production & Business Activity,0
+1,32429,32432,NA,NA,Inventories,Manufacturing,Production & Business Activity,0
+1,32216,NA,NA,NA,NA,Health Insurance,Production & Business Activity,0
+1,32262,NA,NA,NA,NA,Business Cycle Expansions & Contractions,Production & Business Activity,0
+1,97,32426,NA,NA,New Residential Sales,Housing,Production & Business Activity,0
+1,32429,32433,NA,NA,Inventory to Shipments,Manufacturing,Production & Business Activity,0
+1,97,32301,NA,NA,"Housing Units Authorized, But Not Yet Started",Housing,Production & Business Activity,0
+1,6,NA,NA,NA,NA,Retail Trade,Production & Business Activity,0
+1,33940,NA,NA,NA,NA,Emissions,Production & Business Activity,0
+1,33202,32993,NA,NA,Motor Vehicles,Transportation,Production & Business Activity,0
+1,97,32303,NA,NA,Housing Units Under Construction,Housing,Production & Business Activity,0
+1,33936,NA,NA,NA,NA,Business Surveys,Production & Business Activity,0
+1,97,32300,NA,NA,Housing Units Authorized by Building Permits,Housing,Production & Business Activity,0
+1,32429,32430,NA,NA,Shipments,Manufacturing,Production & Business Activity,0
+10,2,32350,NA,NA,Business,Productivity & Costs,"Population, Employment, & Labor Markets",0
+10,2,32354,NA,NA,Nonfinancial Corporations,Productivity & Costs,"Population, Employment, & Labor Markets",0
+10,2,32351,NA,NA,Nonfarm Business,Productivity & Costs,"Population, Employment, & Labor Markets",0
+10,2,32349,32353,Nondurable Goods,Manufacturing,Productivity & Costs,"Population, Employment, & Labor Markets",0
+10,2,32349,32352,Durable Goods,Manufacturing,Productivity & Costs,"Population, Employment, & Labor Markets",0
+10,12,32447,NA,NA,Unemployment Rate,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,32445,NA,NA,Employment Population Ratio,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,32446,NA,NA,Unemployment Level,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,33501,NA,NA,Earnings,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,32449,NA,NA,Labor Force Participation Rate,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,32450,NA,NA,Multiple Jobholders,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,32453,NA,NA,Entrants and Reentrants,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,32444,NA,NA,Employment,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,32452,NA,NA,Losers and Leavers,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,32451,NA,NA,Duration of Unemployment,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,11,32315,NA,NA,Wholesale Trade,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32321,NA,NA,Professional and Business Services,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,32240,NA,NA,NA,NA,Weekly Initial Claims,"Population, Employment, & Labor Markets",0
+10,32241,32243,NA,NA,Job Openings (Levels and Rates),Job Openings and Labor Turnover (JOLTS),"Population, Employment, & Labor Markets",0
+10,11,32311,NA,NA,Manufacturing,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32306,NA,NA,Total Private,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32307,NA,NA,Goods-Producing,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32308,NA,NA,Private Service-Providing,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32310,NA,NA,Construction,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32312,NA,NA,Durable Goods,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32317,NA,NA,Transportation and Warehousing,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32318,NA,NA,Utilities,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32319,NA,NA,Information,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,12,32448,NA,NA,Not in Labor Force,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,32442,NA,NA,Civilian Labor Force,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,11,32309,NA,NA,Mining and Logging,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32323,NA,NA,Leisure and Hospitality,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32320,NA,NA,Financial Activities,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32325,NA,NA,Government,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32313,NA,NA,Nondurable Goods,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32305,NA,NA,Total Nonfarm,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32324,NA,NA,Other Services,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32314,NA,NA,"Trade, Transportation, and Utilities",Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32316,NA,NA,Retail Trade,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32322,NA,NA,Education and Health Services,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,11,32326,NA,NA,Service-Providing,Current Employment Statistics (Establishment Survey),"Population, Employment, & Labor Markets",0
+10,32241,32248,NA,NA,Layoffs and Discharges (Levels and Rates),Job Openings and Labor Turnover (JOLTS),"Population, Employment, & Labor Markets",0
+10,32241,32246,NA,NA,Total Separations (Levels and Rates),Job Openings and Labor Turnover (JOLTS),"Population, Employment, & Labor Markets",0
+10,12,32443,NA,NA,Civilian Labor Force Participation Rate,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,12,33502,NA,NA,Labor Force Status Flows,Current Population Survey (Household Survey),"Population, Employment, & Labor Markets",0
+10,33831,NA,NA,NA,NA,Minimum Wage,"Population, Employment, & Labor Markets",0
+10,104,33735,NA,NA,Poverty Measures,Population,"Population, Employment, & Labor Markets",0
+10,32241,32247,NA,NA,Quits (Levels and Rates),Job Openings and Labor Turnover (JOLTS),"Population, Employment, & Labor Markets",0
+10,32241,32245,NA,NA,Hires (Levels and Rates),Job Openings and Labor Turnover (JOLTS),"Population, Employment, & Labor Markets",0
+10,33500,NA,NA,NA,NA,Education,"Population, Employment, & Labor Markets",0
+10,33509,NA,NA,NA,NA,Labor Market Conditions,"Population, Employment, & Labor Markets",0
+10,104,33514,NA,NA,Supplemental Nutrition Assistance Program,Population,"Population, Employment, & Labor Markets",0
+10,33001,NA,NA,NA,NA,Income Distribution,"Population, Employment, & Labor Markets",0
+10,32241,32249,NA,NA,Other Separations (Levels and Rates),Job Openings and Labor Turnover (JOLTS),"Population, Employment, & Labor Markets",0
+10,32250,NA,NA,NA,NA,ADP Employment,"Population, Employment, & Labor Markets",0
+10,33731,NA,NA,NA,NA,Tax Data,"Population, Employment, & Labor Markets",0
+3008,27281,151,28041,Counties,Indiana,States,U.S. Regional Data,0
+3008,27281,154,33464,Metropolitan Areas,Missouri,States,U.S. Regional Data,0
+3008,27281,27322,29682,Counties,Rhode Island,States,U.S. Regional Data,0
+3008,27281,27283,33745,Metropolitan Divisions,Alaska,States,U.S. Regional Data,0
+3008,27281,27322,30879,MSAs,Rhode Island,States,U.S. Regional Data,0
+3008,27281,152,28340,Counties,Kentucky,States,U.S. Regional Data,0
+3008,27281,27318,29498,Counties,Oklahoma,States,U.S. Regional Data,0
+3008,27281,27332,30968,MSAs,West Virginia,States,U.S. Regional Data,0
+3008,27281,151,33157,Metropolitan Divisions,Indiana,States,U.S. Regional Data,0
+3008,27281,153,30756,MSAs,Mississippi,States,U.S. Regional Data,0
+3008,27281,152,30695,MSAs,Kentucky,States,U.S. Regional Data,0
+3008,27281,27284,27429,Counties,Arizona,States,U.S. Regional Data,0
+3008,27281,27290,33177,Metropolitan Divisions,District of Columbia,States,U.S. Regional Data,0
+3008,27281,27332,32925,CPI for MSAs and Consolidated MSAs,West Virginia,States,U.S. Regional Data,0
+3008,27281,27317,32918,CPI for MSAs and Consolidated MSAs,Ohio,States,U.S. Regional Data,0
+3008,27281,152,32932,CPI for MSAs and Consolidated MSAs,Kentucky,States,U.S. Regional Data,0
+3008,27281,27333,30979,MSAs,Wisconsin,States,U.S. Regional Data,0
+3008,27281,27318,30849,MSAs,Oklahoma,States,U.S. Regional Data,0
+3008,27281,27324,29735,Counties,South Dakota,States,U.S. Regional Data,0
+3008,27281,27288,32872,CPI for MSAs and Consolidated MSAs,Connecticut,States,U.S. Regional Data,0
+3008,27281,27286,30560,MSAs,California,States,U.S. Regional Data,0
+3008,27281,153,28755,Counties,Mississippi,States,U.S. Regional Data,0
+3008,27281,27320,30861,MSAs,Pennsylvania,States,U.S. Regional Data,0
+3008,27281,27286,27521,Counties,California,States,U.S. Regional Data,0
+3008,27281,154,32891,CPI for MSAs and Consolidated MSAs,Missouri,States,U.S. Regional Data,0
+3008,27281,27320,33472,Metropolitan Areas,Pennsylvania,States,U.S. Regional Data,0
+3008,27281,27291,27659,Counties,Florida,States,U.S. Regional Data,0
+3008,27281,27288,27644,Counties,Connecticut,States,U.S. Regional Data,0
+3008,27281,27322,32087,New England City and Town Areas,Rhode Island,States,U.S. Regional Data,0
+3008,27281,27323,29688,Counties,South Carolina,States,U.S. Regional Data,0
+3008,27281,27330,30942,MSAs,Virginia,States,U.S. Regional Data,0
+3008,27281,27284,30545,MSAs,Arizona,States,U.S. Regional Data,0
+3008,27281,27284,32942,CPI for MSAs and Consolidated MSAs,Arizona,States,U.S. Regional Data,0
+3008,27281,27330,33484,Metropolitan Areas,Virginia,States,U.S. Regional Data,0
+3008,27281,27331,30336,Counties,Washington,States,U.S. Regional Data,0
+3008,27281,27331,30955,MSAs,Washington,States,U.S. Regional Data,0
+3008,27281,27286,32903,CPI for MSAs and Consolidated MSAs,California,States,U.S. Regional Data,0
+3008,27281,27287,32944,CPI for MSAs and Consolidated MSAs,Colorado,States,U.S. Regional Data,0
+3008,27281,27328,30934,MSAs,Utah,States,U.S. Regional Data,0
+3008,27281,154,30762,MSAs,Missouri,States,U.S. Regional Data,0
+3008,27281,150,32883,CPI for MSAs and Consolidated MSAs,Illinois,States,U.S. Regional Data,0
+3008,27281,27304,28583,Counties,Michigan,States,U.S. Regional Data,0
+3008,27281,27317,30832,MSAs,Ohio,States,U.S. Regional Data,0
+3008,27281,27334,30505,Counties,Wyoming,States,U.S. Regional Data,0
+3008,27281,27333,32887,CPI for MSAs and Consolidated MSAs,Wisconsin,States,U.S. Regional Data,0
+3008,27281,27319,29576,Counties,Oregon,States,U.S. Regional Data,0
+3008,27281,27319,30854,MSAs,Oregon,States,U.S. Regional Data,0
+3008,27281,27319,32937,CPI for MSAs and Consolidated MSAs,Oregon,States,U.S. Regional Data,0
+3008,27281,27320,29613,Counties,Pennsylvania,States,U.S. Regional Data,0
+3008,27281,27290,33507,Counties,District of Columbia,States,U.S. Regional Data,0
+3008,27281,27328,30154,Counties,Utah,States,U.S. Regional Data,0
+3008,27281,27287,30587,MSAs,Colorado,States,U.S. Regional Data,0
+3008,27281,27331,33172,Metropolitan Divisions,Washington,States,U.S. Regional Data,0
+3008,27281,27334,30995,MSAs,Wyoming,States,U.S. Regional Data,0
+3008,27281,27332,30376,Counties,West Virginia,States,U.S. Regional Data,0
+3008,27281,33504,33505,Counties,Puerto Rico,States,U.S. Regional Data,0
+3008,27281,27303,32911,CPI for MSAs and Consolidated MSAs,Massachusetts,States,U.S. Regional Data,0
+3008,27281,27323,30881,MSAs,South Carolina,States,U.S. Regional Data,0
+3008,32043,32045,32051,Census Divisions,Northeast,Census Regions,U.S. Regional Data,0
+3008,27281,27324,30892,MSAs,South Dakota,States,U.S. Regional Data,0
+3008,27281,27326,29898,Counties,Texas,States,U.S. Regional Data,0
+3008,27281,27326,30907,MSAs,Texas,States,U.S. Regional Data,0
+3008,27281,27326,32897,CPI for MSAs and Consolidated MSAs,Texas,States,U.S. Regional Data,0
+3008,27281,27326,33147,Metropolitan Divisions,Texas,States,U.S. Regional Data,0
+3008,27281,27320,33167,Metropolitan Divisions,Pennsylvania,States,U.S. Regional Data,0
+3008,32061,32066,NA,NA,Plains,BEA Regions,U.S. Regional Data,0
+3008,27281,27286,33159,Metropolitan Divisions,California,States,U.S. Regional Data,0
+3008,27281,27329,32088,New England City and Town Areas,Vermont,States,U.S. Regional Data,0
+3008,27281,27329,30940,MSAs,Vermont,States,U.S. Regional Data,0
+3008,27281,27330,30199,Counties,Virginia,States,U.S. Regional Data,0
+3008,27281,27283,30542,MSAs,Alaska,States,U.S. Regional Data,0
+3008,27281,27314,33164,Metropolitan Divisions,New York,States,U.S. Regional Data,0
+3008,27281,27304,30732,MSAs,Michigan,States,U.S. Regional Data,0
+3008,27281,27314,30799,MSAs,New York,States,U.S. Regional Data,0
+3008,27281,27314,32868,CPI for MSAs and Consolidated MSAs,New York,States,U.S. Regional Data,0
+3008,27281,27316,29355,Counties,North Dakota,States,U.S. Regional Data,0
+3008,27281,149,27445,Counties,Arkansas,States,U.S. Regional Data,0
+3008,27281,27317,29409,Counties,Ohio,States,U.S. Regional Data,0
+3008,27281,154,28838,Counties,Missouri,States,U.S. Regional Data,0
+3008,32071,32153,32194,MSAs in District,New York,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32149,32173,Counties in District,Cleveland,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32148,32168,Counties in District,Chicago,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32148,32169,MSAs in District,Chicago,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32156,32208,Counties in District,San Francisco,Federal Reserve Districts,U.S. Regional Data,0
+3008,27281,27305,28667,Counties,Minnesota,States,U.S. Regional Data,0
+3008,27281,27305,30748,MSAs,Minnesota,States,U.S. Regional Data,0
+3008,27281,33605,NA,NA,Virgin Islands,States,U.S. Regional Data,0
+3008,27281,27331,32905,CPI for MSAs and Consolidated MSAs,Washington,States,U.S. Regional Data,0
+3008,27281,27314,29191,Counties,New York,States,U.S. Regional Data,0
+3008,27281,27303,33134,Metropolitan Divisions,Massachusetts,States,U.S. Regional Data,0
+3008,27281,27320,32874,CPI for MSAs and Consolidated MSAs,Pennsylvania,States,U.S. Regional Data,0
+3008,27281,27287,27580,Counties,Colorado,States,U.S. Regional Data,0
+3008,32071,32147,32163,Counties in District,Boston,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32148,32167,States in District,Chicago,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,133,32073,States in District,St. Louis,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32154,32199,MSAs in District,Philadelphia,Federal Reserve Districts,U.S. Regional Data,0
+3008,27281,150,33144,Metropolitan Divisions,Illinois,States,U.S. Regional Data,0
+3008,27281,27302,28543,Counties,Maryland,States,U.S. Regional Data,0
+3008,27281,27309,30775,MSAs,Nebraska,States,U.S. Regional Data,0
+3008,32043,32047,32058,Census Divisions,West,Census Regions,U.S. Regional Data,0
+3008,32043,32046,32054,Census Divisions,South,Census Regions,U.S. Regional Data,0
+3008,32043,32044,32048,Census Divisions,Midwest,Census Regions,U.S. Regional Data,0
+3008,32061,32069,NA,NA,Southwest,BEA Regions,U.S. Regional Data,0
+3008,32061,32067,NA,NA,Rocky Mountain,BEA Regions,U.S. Regional Data,0
+3008,32061,32064,NA,NA,Mideast,BEA Regions,U.S. Regional Data,0
+3008,27281,149,30551,MSAs,Arkansas,States,U.S. Regional Data,0
+3008,27281,27329,30184,Counties,Vermont,States,U.S. Regional Data,0
+3008,32061,32068,NA,NA,Southeast,BEA Regions,U.S. Regional Data,0
+3008,32061,32062,NA,NA,Far West,BEA Regions,U.S. Regional Data,0
+3008,32061,32065,NA,NA,New England,BEA Regions,U.S. Regional Data,0
+3008,32071,32147,32162,States in District,Boston,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32146,32159,MSAs in District,Atlanta,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32154,32197,States in District,Philadelphia,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32149,32174,MSAs in District,Cleveland,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32147,32164,MSAs in District,Boston,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,133,32074,MSAs in District,St. Louis,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32156,32207,States in District,San Francisco,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32151,32182,States in District,Kansas City,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32155,32204,MSAs in District,Richmond,Federal Reserve Districts,U.S. Regional Data,0
+3008,27281,27302,33452,Metropolitan Areas,Maryland,States,U.S. Regional Data,0
+3008,27281,27302,33130,Metropolitan Divisions,Maryland,States,U.S. Regional Data,0
+3008,27281,27302,30718,MSAs,Maryland,States,U.S. Regional Data,0
+3008,27281,27302,32881,CPI for MSAs and Consolidated MSAs,Maryland,States,U.S. Regional Data,0
+3008,27281,27303,28568,Counties,Massachusetts,States,U.S. Regional Data,0
+3008,32071,32146,32158,Counties in District,Atlanta,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32153,32193,Counties in District,New York,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,133,32072,Counties in District,St. Louis,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32155,32202,States in District,Richmond,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32149,32172,States in District,Cleveland,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32150,32179,MSAs in District,Dallas,Federal Reserve Districts,U.S. Regional Data,0
+3008,27281,33504,33475,MSAs,Puerto Rico,States,U.S. Regional Data,0
+3008,27281,27313,30794,MSAs,New Mexico,States,U.S. Regional Data,0
+3008,27281,27292,30625,MSAs,Georgia,States,U.S. Regional Data,0
+3008,27281,27292,32899,CPI for MSAs and Consolidated MSAs,Georgia,States,U.S. Regional Data,0
+3008,27281,27289,27653,Counties,Delaware,States,U.S. Regional Data,0
+3008,27281,27283,32907,CPI for MSAs and Consolidated MSAs,Alaska,States,U.S. Regional Data,0
+3008,27281,27292,27727,Counties,Georgia,States,U.S. Regional Data,0
+3008,27281,27309,29012,Counties,Nebraska,States,U.S. Regional Data,0
+3008,27281,27290,30603,MSAs,District of Columbia,States,U.S. Regional Data,0
+3008,27281,27310,29106,Counties,Nevada,States,U.S. Regional Data,0
+3008,27281,27310,30779,MSAs,Nevada,States,U.S. Regional Data,0
+3008,27281,27293,27887,Counties,Hawaii,States,U.S. Regional Data,0
+3008,27281,27293,30641,MSAs,Hawaii,States,U.S. Regional Data,0
+3008,27281,27293,33715,Metropolitan Areas,Hawaii,States,U.S. Regional Data,0
+3008,27281,27293,32940,CPI for MSAs and Consolidated MSAs,Hawaii,States,U.S. Regional Data,0
+3008,27281,27290,32920,CPI for MSAs and Consolidated MSAs,District of Columbia,States,U.S. Regional Data,0
+3008,32061,32063,NA,NA,Great Lakes,BEA Regions,U.S. Regional Data,0
+3008,27281,27283,27403,Census Areas and Boroughs,Alaska,States,U.S. Regional Data,0
+3008,27281,27291,30605,MSAs,Florida,States,U.S. Regional Data,0
+3008,27281,27291,32901,CPI for MSAs and Consolidated MSAs,Florida,States,U.S. Regional Data,0
+3008,27281,27282,30529,MSAs,Alabama,States,U.S. Regional Data,0
+3008,27281,27333,30432,Counties,Wisconsin,States,U.S. Regional Data,0
+3008,32849,32851,32856,"Population Size Class D (under 50,000)",Midwest Urban,BLS Regions,U.S. Regional Data,0
+3008,32849,32853,32864,"Population Size Class A (over 1,500,000)",West Urban,BLS Regions,U.S. Regional Data,0
+3008,32849,32851,32854,"Population Size Class A (over 1,500,000)",Midwest Urban,BLS Regions,U.S. Regional Data,0
+3008,32849,32850,32857,"Population Size Class A (over 1,500,000)",Northeast Urban,BLS Regions,U.S. Regional Data,0
+3008,32849,32851,32855,"Population Size Class B/C (between 50,000 and 1,500,000)",Midwest Urban,BLS Regions,U.S. Regional Data,0
+3008,27281,27316,30828,MSAs,North Dakota,States,U.S. Regional Data,0
+3008,32849,32852,32865,"Population Size Class B/C (between 50,000 and 1,500,000)",South Urban,BLS Regions,U.S. Regional Data,0
+3008,27281,27315,30812,MSAs,North Carolina,States,U.S. Regional Data,0
+3008,27281,27332,33181,Metropolitan Divisions,West Virginia,States,U.S. Regional Data,0
+3008,32849,32862,NA,NA,"Population Size Class D (under 50,000)",BLS Regions,U.S. Regional Data,0
+3008,32849,32850,32858,"Population Size Class B/C (between 50,000 and 1,500,000)",Northeast Urban,BLS Regions,U.S. Regional Data,0
+3008,32849,32860,NA,NA,"Population Size Class A (over 1,500,000)",BLS Regions,U.S. Regional Data,0
+3008,32849,32861,NA,NA,"Population Size Class B/C (between 50,000 and 1,500,000)",BLS Regions,U.S. Regional Data,0
+3008,27281,27303,32085,New England City and Town Areas,Massachusetts,States,U.S. Regional Data,0
+3008,27281,27303,30725,MSAs,Massachusetts,States,U.S. Regional Data,0
+3008,27281,27333,33175,Metropolitan Divisions,Wisconsin,States,U.S. Regional Data,0
+3008,27281,27289,30600,MSAs,Delaware,States,U.S. Regional Data,0
+3008,27281,27289,32879,CPI for MSAs and Consolidated MSAs,Delaware,States,U.S. Regional Data,0
+3008,32071,32152,32188,Counties in District,Minneapolis,Federal Reserve Districts,U.S. Regional Data,0
+3008,27281,27304,33150,Metropolitan Divisions,Michigan,States,U.S. Regional Data,0
+3008,32071,32152,32189,MSAs in District,Minneapolis,Federal Reserve Districts,U.S. Regional Data,0
+3008,27281,27311,33170,Metropolitan Divisions,New Hampshire,States,U.S. Regional Data,0
+3008,27281,150,27938,Counties,Illinois,States,U.S. Regional Data,0
+3008,27281,150,30650,MSAs,Illinois,States,U.S. Regional Data,0
+3008,27281,27305,32927,CPI for MSAs and Consolidated MSAs,Minnesota,States,U.S. Regional Data,0
+3008,32071,32151,32184,MSAs in District,Kansas City,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32153,32192,States in District,New York,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32150,32177,States in District,Dallas,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32156,32209,MSAs in District,San Francisco,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32152,32187,States in District,Minneapolis,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32146,32157,States in District,Atlanta,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32155,32203,Counties in District,Richmond,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32150,32178,Counties in District,Dallas,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32154,32198,Counties in District,Philadelphia,Federal Reserve Districts,U.S. Regional Data,0
+3008,32071,32151,32183,Counties in District,Kansas City,Federal Reserve Districts,U.S. Regional Data,0
+3008,27281,27294,30643,MSAs,Idaho,States,U.S. Regional Data,0
+3008,27281,27297,28134,Counties,Iowa,States,U.S. Regional Data,0
+3008,27281,27297,30679,MSAs,Iowa,States,U.S. Regional Data,0
+3008,27281,27298,28234,Counties,Kansas,States,U.S. Regional Data,0
+3008,27281,27298,30689,MSAs,Kansas,States,U.S. Regional Data,0
+3008,27281,27298,33462,Metropolitan Areas,Kansas,States,U.S. Regional Data,0
+3008,27281,27330,32923,CPI for MSAs and Consolidated MSAs,Virginia,States,U.S. Regional Data,0
+3008,27281,27330,33179,Metropolitan Divisions,Virginia,States,U.S. Regional Data,0
+3008,27281,27301,28526,Counties,Maine,States,U.S. Regional Data,0
+3008,27281,27301,32084,New England City and Town Areas,Maine,States,U.S. Regional Data,0
+3008,27281,27301,30714,MSAs,Maine,States,U.S. Regional Data,0
+3008,27281,27301,32915,CPI for MSAs and Consolidated MSAs,Maine,States,U.S. Regional Data,0
+3008,27281,27294,27893,Counties,Idaho,States,U.S. Regional Data,0
+3008,32233,32237,NA,NA,Southwest,Freddie Mac Regions,U.S. Regional Data,0
+3008,32233,32236,NA,NA,North Central,Freddie Mac Regions,U.S. Regional Data,0
+3008,32233,32234,NA,NA,Northeast,Freddie Mac Regions,U.S. Regional Data,0
+3008,32233,32238,NA,NA,West,Freddie Mac Regions,U.S. Regional Data,0
+3008,32233,32235,NA,NA,Southeast,Freddie Mac Regions,U.S. Regional Data,0
+3008,27281,27288,32083,New England City and Town Areas,Connecticut,States,U.S. Regional Data,0
+3008,27281,27313,29157,Counties,New Mexico,States,U.S. Regional Data,0
+3008,27281,151,32885,CPI for MSAs and Consolidated MSAs,Indiana,States,U.S. Regional Data,0
+3008,27281,27282,27335,Counties,Alabama,States,U.S. Regional Data,0
+3008,27281,27288,30595,MSAs,Connecticut,States,U.S. Regional Data,0
+3008,27281,151,30662,MSAs,Indiana,States,U.S. Regional Data,0
+3008,27281,27289,33183,Metropolitan Divisions,Delaware,States,U.S. Regional Data,0
+3008,27281,27311,32913,CPI for MSAs and Consolidated MSAs,New Hampshire,States,U.S. Regional Data,0
+3008,27281,27315,29254,Counties,North Carolina,States,U.S. Regional Data,0
+3008,27281,193,29802,Counties,Tennessee,States,U.S. Regional Data,0
+3008,27281,27312,30786,MSAs,New Jersey,States,U.S. Regional Data,0
+3008,27281,27312,32870,CPI for MSAs and Consolidated MSAs,New Jersey,States,U.S. Regional Data,0
+3008,27281,27308,28954,Counties,Montana,States,U.S. Regional Data,0
+3008,27281,27312,33467,Metropolitan Areas,New Jersey,States,U.S. Regional Data,0
+3008,27281,27300,30705,MSAs,Louisiana,States,U.S. Regional Data,0
+3008,27281,27308,30771,MSAs,Montana,States,U.S. Regional Data,0
+3008,27281,27291,33153,Metropolitan Divisions,Florida,States,U.S. Regional Data,0
+3008,27281,27300,28461,Parishes,Louisiana,States,U.S. Regional Data,0
+3008,32849,32852,32863,"Population Size Class A (over 1,500,000)",South Urban,BLS Regions,U.S. Regional Data,0
+3008,27281,193,30896,MSAs,Tennessee,States,U.S. Regional Data,0
+3008,27281,27312,29135,Counties,New Jersey,States,U.S. Regional Data,0
+3008,27281,27304,32889,CPI for MSAs and Consolidated MSAs,Michigan,States,U.S. Regional Data,0
+3008,27281,27311,32086,New England City and Town Areas,New Hampshire,States,U.S. Regional Data,0
+3008,32849,32852,32867,"Population Size Class D (under 50,000)",South Urban,BLS Regions,U.S. Regional Data,0
+3008,27281,27311,29124,Counties,New Hampshire,States,U.S. Regional Data,0
+3008,27281,27312,33138,Metropolitan Divisions,New Jersey,States,U.S. Regional Data,0
+3008,27281,27311,30783,MSAs,New Hampshire,States,U.S. Regional Data,0
+3008,27281,27314,33469,Metropolitan Areas,New York,States,U.S. Regional Data,0
+3008,32849,32853,32866,"Population Size Class B/C (between 50,000 and 1,500,000)",West Urban,BLS Regions,U.S. Regional Data,0
+32263,32264,32268,NA,NA,Canada,Countries,International Data,0
+32263,32264,32270,NA,NA,Belgium,Countries,International Data,0
+32263,32264,32334,NA,NA,Iceland,Countries,International Data,0
+32263,32264,32271,NA,NA,Denmark,Countries,International Data,0
+32263,32264,32336,NA,NA,Luxembourg,Countries,International Data,0
+32263,32264,32758,NA,NA,Mauritania,Countries,International Data,0
+32263,32264,32740,NA,NA,Lao People's Democratic Republic,Countries,International Data,0
+32263,32264,32745,NA,NA,Libyan Arab Jamahiriya,Countries,International Data,0
+32263,32264,32345,NA,NA,South Africa,Countries,International Data,0
+32263,32264,32269,NA,NA,Australia,Countries,International Data,0
+32263,32264,32717,NA,NA,Guam,Countries,International Data,0
+32263,32264,32718,NA,NA,Guatemala,Countries,International Data,0
+32263,32264,32335,NA,NA,Israel,Countries,International Data,0
+32263,32264,32716,NA,NA,Guadeloupe,Countries,International Data,0
+32263,32264,32337,NA,NA,Mexico,Countries,International Data,0
+32263,32264,32655,NA,NA,Bahamas,Countries,International Data,0
+32263,32264,32656,NA,NA,Bahrain,Countries,International Data,0
+32263,32264,32721,NA,NA,Guinea-Bissau,Countries,International Data,0
+32263,32264,32273,NA,NA,Germany,Countries,International Data,0
+32263,32264,32744,NA,NA,Liberia,Countries,International Data,0
+32263,32264,32343,NA,NA,Slovenia,Countries,International Data,0
+32263,32264,32331,NA,NA,Hungary,Countries,International Data,0
+32263,32264,32279,NA,NA,Switzerland,Countries,International Data,0
+32263,32264,32648,NA,NA,Anguilla,Countries,International Data,0
+32263,32264,32650,NA,NA,Antigua and Barbuda,Countries,International Data,0
+32263,32264,32720,NA,NA,Guinea,Countries,International Data,0
+32263,32264,32652,NA,NA,Armenia,Countries,International Data,0
+32263,32264,32681,NA,NA,Cocos (Keeling) Islands,Countries,International Data,0
+32263,32264,32682,NA,NA,Colombia,Countries,International Data,0
+32263,32264,32724,NA,NA,Heard Island and McDonald Islands,Countries,International Data,0
+32263,32264,32741,NA,NA,Latvia,Countries,International Data,0
+32263,32264,32328,NA,NA,Chile,Countries,International Data,0
+32263,32264,32277,NA,NA,Spain,Countries,International Data,0
+32263,32264,32329,NA,NA,China,Countries,International Data,0
+32263,32264,32715,NA,NA,Grenada,Countries,International Data,0
+32263,32264,32280,NA,NA,United Kingdom,Countries,International Data,0
+32263,32264,32332,NA,NA,Indonesia,Countries,International Data,0
+32263,32264,32333,NA,NA,India,Countries,International Data,0
+32263,32264,32282,NA,NA,Austria,Countries,International Data,0
+32263,32264,32286,NA,NA,"Korea, Republic of (South Korea)",Countries,International Data,0
+32263,32264,32287,NA,NA,Singapore,Countries,International Data,0
+32263,32264,32281,NA,NA,Japan,Countries,International Data,0
+32263,32264,32747,NA,NA,Lithuania,Countries,International Data,0
+32263,32264,32267,NA,NA,United States,Countries,International Data,0
+32263,32264,32340,NA,NA,Portugal,Countries,International Data,0
+32263,32264,32438,NA,NA,Taiwan,Countries,International Data,0
+32263,32264,32342,NA,NA,Slovak Republic,Countries,International Data,0
+32263,32264,32330,NA,NA,Greece,Countries,International Data,0
+32263,32264,32749,NA,NA,"Macedonia, Former Yugoslav Republic of",Countries,International Data,0
+32263,32264,32759,NA,NA,Mauritius,Countries,International Data,0
+32263,32264,32746,NA,NA,Liechtenstein,Countries,International Data,0
+32263,32264,32290,NA,NA,Ireland,Countries,International Data,0
+32263,32264,32678,NA,NA,Central African Republic,Countries,International Data,0
+32263,32264,32679,NA,NA,Chad,Countries,International Data,0
+32263,32264,32680,NA,NA,Christmas Island,Countries,International Data,0
+32263,32264,32805,NA,NA,Saudi Arabia,Countries,International Data,0
+32263,32264,32806,NA,NA,Senegal,Countries,International Data,0
+32263,32264,32275,NA,NA,Netherlands,Countries,International Data,0
+32263,32264,32272,NA,NA,France,Countries,International Data,0
+32263,32264,32685,NA,NA,"Congo, Democratic Republic of the",Countries,International Data,0
+32263,32264,32728,NA,NA,"Iran, Islamic Republic of",Countries,International Data,0
+32263,32264,32687,NA,NA,Costa Rica,Countries,International Data,0
+32263,32264,32688,NA,NA,Côte d’Ivoire,Countries,International Data,0
+32263,32264,32689,NA,NA,Croatia,Countries,International Data,0
+32263,32264,32690,NA,NA,Cuba,Countries,International Data,0
+32263,32264,32651,NA,NA,Argentina,Countries,International Data,0
+32263,32264,32692,NA,NA,Cyprus,Countries,International Data,0
+32263,32264,32653,NA,NA,Aruba,Countries,International Data,0
+32263,32264,32654,NA,NA,Azerbaijan,Countries,International Data,0
+32263,32264,32274,NA,NA,Italy,Countries,International Data,0
+32263,32264,32754,NA,NA,Mali,Countries,International Data,0
+32263,32264,32327,NA,NA,Brazil,Countries,International Data,0
+32263,32264,32743,NA,NA,Lesotho,Countries,International Data,0
+32263,32264,32699,NA,NA,Equatorial Guinea,Countries,International Data,0
+32263,32264,32344,NA,NA,Turkey,Countries,International Data,0
+32263,32264,32783,NA,NA,Palestinian Territories,Countries,International Data,0
+32263,32264,32784,NA,NA,Panama,Countries,International Data,0
+32263,32264,32785,NA,NA,Papua New Guinea,Countries,International Data,0
+32263,32264,32786,NA,NA,Paraguay,Countries,International Data,0
+32263,32264,32787,NA,NA,Peru,Countries,International Data,0
+32263,32264,32788,NA,NA,Philippines,Countries,International Data,0
+32263,32264,32707,NA,NA,French Polynesia,Countries,International Data,0
+32263,32264,32708,NA,NA,French Southern Territories,Countries,International Data,0
+32263,32264,32709,NA,NA,Gabon,Countries,International Data,0
+32263,32264,32710,NA,NA,Republic of the Gambia,Countries,International Data,0
+32263,32264,32793,NA,NA,Romania,Countries,International Data,0
+32263,32264,32712,NA,NA,Ghana,Countries,International Data,0
+32263,32264,32713,NA,NA,Gibraltar,Countries,International Data,0
+32263,32264,32714,NA,NA,Greenland,Countries,International Data,0
+32263,32264,32798,NA,NA,Saint Lucia,Countries,International Data,0
+32263,32264,32799,NA,NA,"Saint Martin, Collectivity of",Countries,International Data,0
+32263,32264,32843,NA,NA,"Virgin Islands, U.S.",Countries,International Data,0
+32263,32264,32844,NA,NA,Wallis and Futuna,Countries,International Data,0
+32263,32264,32845,NA,NA,Western Sahara,Countries,International Data,0
+32263,32264,32846,NA,NA,"Yemen, Republic of",Countries,International Data,0
+32263,32264,32847,NA,NA,Zambia,Countries,International Data,0
+32263,32264,32848,NA,NA,Zimbabwe,Countries,International Data,0
+32263,32264,32766,NA,NA,Montserrat,Countries,International Data,0
+32263,32264,32726,NA,NA,Honduras,Countries,International Data,0
+32263,32264,32341,NA,NA,Russian Federation,Countries,International Data,0
+32263,32264,32686,NA,NA,Cook Islands,Countries,International Data,0
+32263,32264,32644,NA,NA,Algeria,Countries,International Data,0
+32263,32264,32645,NA,NA,American Samoa,Countries,International Data,0
+32263,32264,32730,NA,NA,Isle of Man,Countries,International Data,0
+32263,32264,32731,NA,NA,Jamaica,Countries,International Data,0
+32263,32264,32691,NA,NA,Curaçao,Countries,International Data,0
+32263,32264,32734,NA,NA,Kazakhstan,Countries,International Data,0
+32263,32264,32693,NA,NA,Djibouti,Countries,International Data,0
+32263,32264,32694,NA,NA,Dominica,Countries,International Data,0
+32263,32264,32695,NA,NA,Dominican Republic,Countries,International Data,0
+32263,32264,32696,NA,NA,Ecuador,Countries,International Data,0
+32263,32264,32821,NA,NA,Tajikistan,Countries,International Data,0
+32263,32264,32822,NA,NA,"Tanzania, United Republic of",Countries,International Data,0
+32263,32264,32657,NA,NA,Bangladesh,Countries,International Data,0
+32263,32264,32782,NA,NA,Palau,Countries,International Data,0
+32263,32264,32659,NA,NA,Belarus,Countries,International Data,0
+32263,32264,32660,NA,NA,Belize,Countries,International Data,0
+32263,32264,32661,NA,NA,Benin,Countries,International Data,0
+32263,32264,32662,NA,NA,Bermuda,Countries,International Data,0
+32263,32264,32663,NA,NA,Bhutan,Countries,International Data,0
+32263,32264,32664,NA,NA,"Bolivia, Plurinational State of",Countries,International Data,0
+32263,32264,32665,NA,NA,Caribbean Netherlands,Countries,International Data,0
+32263,32264,32750,NA,NA,Madagascar,Countries,International Data,0
+32263,32264,32751,NA,NA,Malawi,Countries,International Data,0
+32263,32264,32339,NA,NA,Poland,Countries,International Data,0
+32263,32264,32753,NA,NA,Maldives,Countries,International Data,0
+32263,32264,32671,NA,NA,Bulgaria,Countries,International Data,0
+32263,32264,32755,NA,NA,Malta,Countries,International Data,0
+32263,32264,32756,NA,NA,Marshall Islands,Countries,International Data,0
+32263,32264,32757,NA,NA,Martinique,Countries,International Data,0
+32263,32264,32675,NA,NA,Cameroon,Countries,International Data,0
+32263,32264,32676,NA,NA,Cape Verde,Countries,International Data,0
+32263,32264,32760,NA,NA,Mayotte,Countries,International Data,0
+32263,32264,32761,NA,NA,"Micronesia, Federated States of",Countries,International Data,0
+32263,32264,32762,NA,NA,"Moldova, Republic of",Countries,International Data,0
+32263,32264,32722,NA,NA,Guyana,Countries,International Data,0
+32263,32264,32723,NA,NA,Haiti,Countries,International Data,0
+32263,32264,32946,NA,NA,Kosovo,Countries,International Data,0
+32263,32264,32683,NA,NA,Comoros,Countries,International Data,0
+32263,32264,32276,NA,NA,Norway,Countries,International Data,0
+32263,32264,32727,NA,NA,Hong Kong,Countries,International Data,0
+32263,32264,32278,NA,NA,Sweden,Countries,International Data,0
+32263,32264,32729,NA,NA,Iraq,Countries,International Data,0
+32263,32264,32646,NA,NA,Andorra,Countries,International Data,0
+32263,32264,32647,NA,NA,Angola,Countries,International Data,0
+32263,32264,32733,NA,NA,Jordan,Countries,International Data,0
+32263,32264,32774,NA,NA,Nicaragua,Countries,International Data,0
+32263,32264,32735,NA,NA,Kenya,Countries,International Data,0
+32263,32264,32736,NA,NA,Kiribati,Countries,International Data,0
+32263,32264,32737,NA,NA,"Korea, Democratic People's Republic of (North Korea)",Countries,International Data,0
+32263,32264,32738,NA,NA,Kuwait,Countries,International Data,0
+32263,32264,32739,NA,NA,Kyrgyz Republic,Countries,International Data,0
+32263,32264,32780,NA,NA,Oman,Countries,International Data,0
+32263,32264,32698,NA,NA,El Salvador,Countries,International Data,0
+32263,32264,32742,NA,NA,Lebanon,Countries,International Data,0
+32263,32264,32700,NA,NA,Eritrea,Countries,International Data,0
+32263,32264,32701,NA,NA,Estonia,Countries,International Data,0
+32263,32264,32702,NA,NA,Ethiopia,Countries,International Data,0
+32263,32264,32703,NA,NA,Falkland Islands,Countries,International Data,0
+32263,32264,32704,NA,NA,Faroe Islands,Countries,International Data,0
+32263,32264,32705,NA,NA,Fiji,Countries,International Data,0
+32263,32264,32706,NA,NA,French Guiana,Countries,International Data,0
+32263,32264,32666,NA,NA,Bosnia and Herzegovina,Countries,International Data,0
+32263,32264,32667,NA,NA,Botswana,Countries,International Data,0
+32263,32264,32338,NA,NA,New Zealand,Countries,International Data,0
+32263,32264,32288,NA,NA,Czech Republic,Countries,International Data,0
+32263,32264,32711,NA,NA,Georgia,Countries,International Data,0
+32263,32264,32289,NA,NA,Finland,Countries,International Data,0
+32263,32264,32748,NA,NA,Macao,Countries,International Data,0
+32263,32264,32674,NA,NA,Cambodia,Countries,International Data,0
+32263,32264,32841,NA,NA,Viet Nam,Countries,International Data,0
+32263,32264,32842,NA,NA,"Virgin Islands, British",Countries,International Data,0
+32263,32264,32677,NA,NA,Cayman Islands,Countries,International Data,0
+32263,32265,32294,32437,Manufacturing,Production & Business Activity,Indicators,International Data,0
+32263,32265,33000,32949,Interest Rates,"Money, Banking, & Finance",Indicators,International Data,0
+32263,32265,32294,33088,Retail Sales,Production & Business Activity,Indicators,International Data,0
+32263,32265,33261,33268,Consumer prices (inflation),Consumer opinion surveys,Indicators,International Data,0
+32263,32265,33000,32954,Financial Stress Indicators,"Money, Banking, & Finance",Indicators,International Data,0
+32263,32265,32998,33226,Wholesale,Prices,Indicators,International Data,0
+32263,32265,33261,33262,Economic Situation,Consumer opinion surveys,Indicators,International Data,0
+32263,32265,32294,33192,Insurance,Production & Business Activity,Indicators,International Data,0
+32263,32265,32294,33827,Ease of Doing Business,Production & Business Activity,Indicators,International Data,0
+32263,32265,33000,33185,Banking,"Money, Banking, & Finance",Indicators,International Data,0
+32263,32265,32294,32953,Real Estate,Production & Business Activity,Indicators,International Data,0
+32263,32265,33000,33099,Financial Indicators,"Money, Banking, & Finance",Indicators,International Data,0
+32263,32265,32997,33196,GNP,National Accounts,Indicators,International Data,0
+32263,32265,33247,NA,NA,Consumer Price Index,Indicators,International Data,0
+32263,32265,33254,33255,Construction,Work Started,Indicators,International Data,0
+32263,32265,32999,33217,Labor Force Participation Rate,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,32294,33229,Wholesale,Production & Business Activity,Indicators,International Data,0
+32263,32265,33000,32952,Reserves & Monetary Base,"Money, Banking, & Finance",Indicators,International Data,0
+32263,32265,33274,33295,Order books,Business tendency surveys (construction),Indicators,International Data,0
+32263,32265,33274,33313,Employment,Business tendency surveys (construction),Indicators,International Data,0
+32263,32265,33274,33319,Selling prices,Business tendency surveys (construction),Indicators,International Data,0
+32263,32265,32294,33499,Internet Users,Production & Business Activity,Indicators,International Data,0
+32263,32265,32999,33526,Education,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,32999,32283,Employment,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,32997,32291,GDP,National Accounts,Indicators,International Data,0
+32263,32265,32999,33525,Income Distribution,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,32999,33215,Job Openings and Labor Turnover,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,32999,32285,Labor Force,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,33288,33331,Business situation,Business tendency surveys (manufacturing),Indicators,International Data,0
+32263,32265,33000,32950,Monetary Data,"Money, Banking, & Finance",Indicators,International Data,0
+32263,32265,32999,33213,Labor Compensation,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,33274,33275,Confidence indicators,Business tendency surveys (construction),Indicators,International Data,0
+32263,32265,33368,33369,Employment,Business tendency surveys (non-manufacturing),Indicators,International Data,0
+32263,32265,32999,33214,Unemployment Level,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,32294,33090,Industrial Production & Capacity Utilization,Production & Business Activity,Indicators,International Data,0
+32263,32265,32999,33829,Migration,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,33274,33325,Business situation - Activity,Business tendency surveys (construction),Indicators,International Data,0
+32263,32265,32999,33218,Employment Population Ratio,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,32997,32951,Balance of Payments,National Accounts,Indicators,International Data,0
+32263,32265,33288,33301,Finished goods stocks,Business tendency surveys (manufacturing),Indicators,International Data,0
+32263,32265,33288,33307,Order books,Business tendency surveys (manufacturing),Indicators,International Data,0
+32263,32265,32999,33212,Productivity & Costs,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,33344,33345,Employment,Business tendency surveys (retail trade),Indicators,International Data,0
+32263,32265,32999,33219,Unemployment Rate,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,32999,32292,Population,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,33344,33351,Business situation - Activity,Business tendency surveys (retail trade),Indicators,International Data,0
+32263,32265,33344,33375,Confidence indicators,Business tendency surveys (retail trade),Indicators,International Data,0
+32263,32264,32641,NA,NA,Afghanistan,Countries,International Data,0
+32263,32265,32998,33503,House Prices,Prices,Indicators,International Data,0
+32263,32265,33281,33282,Confidence Indicators,Business tendency surveys (services),Indicators,International Data,0
+32263,32265,32999,32284,Unemployment,"Population, Employment, & Labor Markets",Indicators,International Data,0
+32263,32265,33344,33357,Volume of stocks,Business tendency surveys (retail trade),Indicators,International Data,0
+32263,32264,32772,NA,NA,Nepal,Countries,International Data,0
+32263,32264,32815,NA,NA,Sri Lanka,Countries,International Data,0
+32263,32264,32816,NA,NA,Sudan,Countries,International Data,0
+32263,32264,32817,NA,NA,Suriname,Countries,International Data,0
+32263,32264,32818,NA,NA,Svalbard and Jan Mayen,Countries,International Data,0
+32263,32264,32819,NA,NA,Swaziland,Countries,International Data,0
+32263,32264,32791,NA,NA,Qatar,Countries,International Data,0
+32263,32264,32752,NA,NA,Malaysia,Countries,International Data,0
+32263,32264,32835,NA,NA,United Arab Emirates,Countries,International Data,0
+32263,32264,32781,NA,NA,Pakistan,Countries,International Data,0
+32263,32264,32824,NA,NA,Timor-Leste,Countries,International Data,0
+32263,32264,32825,NA,NA,Togo,Countries,International Data,0
+32263,32264,32826,NA,NA,Tokelau,Countries,International Data,0
+32263,32264,32827,NA,NA,Tonga,Countries,International Data,0
+32263,32264,32828,NA,NA,Trinidad and Tobago,Countries,International Data,0
+32263,32264,32829,NA,NA,Tunisia,Countries,International Data,0
+32263,32264,32830,NA,NA,Turkmenistan,Countries,International Data,0
+32263,32264,32789,NA,NA,Pitcairn,Countries,International Data,0
+32263,32264,32790,NA,NA,Puerto Rico,Countries,International Data,0
+32263,32264,32764,NA,NA,Mongolia,Countries,International Data,0
+32263,32264,32820,NA,NA,Syrian Arab Republic,Countries,International Data,0
+32263,32264,32669,NA,NA,British Indian Ocean Territory,Countries,International Data,0
+32263,32264,32794,NA,NA,Rwanda,Countries,International Data,0
+32263,32264,32796,NA,NA,"Saint Helena, Ascension and Tristan da Cunha",Countries,International Data,0
+32263,32264,32797,NA,NA,Saint Kitts and Nevis,Countries,International Data,0
+32263,32264,32840,NA,NA,"Venezuela, Bolivarian Republic of",Countries,International Data,0
+32263,32264,32771,NA,NA,Nauru,Countries,International Data,0
+32263,32264,32800,NA,NA,Saint Pierre and Miquelon,Countries,International Data,0
+32263,32264,32801,NA,NA,Saint Vincent and the Grenadines,Countries,International Data,0
+32263,32264,32802,NA,NA,Samoa,Countries,International Data,0
+32263,32264,32803,NA,NA,San Marino,Countries,International Data,0
+32263,32264,32763,NA,NA,Monaco,Countries,International Data,0
+32263,32264,32832,NA,NA,Tuvalu,Countries,International Data,0
+32263,32264,32765,NA,NA,Montenegro,Countries,International Data,0
+32263,32264,32725,NA,NA,Holy See (Vatican City State),Countries,International Data,0
+32263,32264,32684,NA,NA,"Congo, Republic of the",Countries,International Data,0
+32263,32264,32809,NA,NA,Sierra Leone,Countries,International Data,0
+32263,32264,32810,NA,NA,Sint Maarten (Dutch part),Countries,International Data,0
+32263,32264,32838,NA,NA,Uzbekistan,Countries,International Data,0
+32263,32264,32769,NA,NA,Myanmar,Countries,International Data,0
+32263,32264,32814,NA,NA,South Sudan,Countries,International Data,0
+32263,32264,32773,NA,NA,New Caledonia,Countries,International Data,0
+32263,32264,32837,NA,NA,Uruguay,Countries,International Data,0
+32263,32264,32775,NA,NA,Niger,Countries,International Data,0
+32263,32264,32776,NA,NA,Nigeria,Countries,International Data,0
+32263,32264,32777,NA,NA,Niue,Countries,International Data,0
+32263,32264,32778,NA,NA,Norfolk Island,Countries,International Data,0
+32263,32264,32779,NA,NA,Northern Mariana Islands,Countries,International Data,0
+32263,32264,32697,NA,NA,Egypt,Countries,International Data,0
+32263,32264,32823,NA,NA,Thailand,Countries,International Data,0
+32263,32264,32658,NA,NA,Barbados,Countries,International Data,0
+32263,32264,32643,NA,NA,Albania,Countries,International Data,0
+32263,32264,32812,NA,NA,Somalia,Countries,International Data,0
+32263,32264,32834,NA,NA,Ukraine,Countries,International Data,0
+32263,32264,32808,NA,NA,Seychelles,Countries,International Data,0
+32263,32265,32294,33092,Construction,Production & Business Activity,Indicators,International Data,0
+32263,32265,32997,32458,Government Debt,National Accounts,Indicators,International Data,0
+32263,32265,32997,33206,Trade & International Transactions,National Accounts,Indicators,International Data,0
+32263,32265,33000,33195,Business Lending,"Money, Banking, & Finance",Indicators,International Data,0
+32263,32265,32294,33527,Cell Phone Usage,Production & Business Activity,Indicators,International Data,0
+32263,32265,32998,33129,Trade Indexes,Prices,Indicators,International Data,0
+32263,32264,32670,NA,NA,Brunei Darussalam,Countries,International Data,0
+32263,32265,32997,33097,International Trade and Transactions,National Accounts,Indicators,International Data,0
+32263,32264,32672,NA,NA,Burkina Faso,Countries,International Data,0
+32263,32264,32673,NA,NA,Burundi,Countries,International Data,0
+32263,32265,32997,33232,National Income & Product Accounts,National Accounts,Indicators,International Data,0
+32263,32265,32998,32266,Consumer Price Indexes,Prices,Indicators,International Data,0
+32263,32265,33000,33210,Exchange Rate,"Money, Banking, & Finance",Indicators,International Data,0
+32263,32265,33000,33191,Financial Institutions,"Money, Banking, & Finance",Indicators,International Data,0
+32263,32955,32965,32975,Central Asia,Asia,Geography,International Data,0
+32263,32955,32966,32980,Eastern Europe,Europe,Geography,International Data,0
+32263,32955,32964,32973,Latin America and the Caribbean,Americas,Geography,International Data,0
+32263,32955,32459,NA,NA,World,Geography,International Data,0
+32263,32955,32963,32971,Southern Africa,Africa,Geography,International Data,0
+32263,32955,32965,32979,Western Asia,Asia,Geography,International Data,0
+32263,32955,32967,32987,Polynesia,Oceania,Geography,International Data,0
+32263,32955,32963,32970,Northern Africa,Africa,Geography,International Data,0
+32263,32955,32966,32982,Southern Europe,Europe,Geography,International Data,0
+32263,32955,32963,32968,Eastern Africa,Africa,Geography,International Data,0
+32263,32955,32965,32978,South-Eastern Asia,Asia,Geography,International Data,0
+32263,32955,32964,32974,Northern America,Americas,Geography,International Data,0
+32263,32955,32967,32985,Melanesia,Oceania,Geography,International Data,0
+32263,32955,32967,32984,Australia and New Zealand,Oceania,Geography,International Data,0
+32263,32955,32965,32977,Southern Asia,Asia,Geography,International Data,0
+32263,32955,32966,32983,Western Europe,Europe,Geography,International Data,0
+32263,32955,32965,32976,Eastern Asia,Asia,Geography,International Data,0
+32263,32955,32966,32981,Northern Europe,Europe,Geography,International Data,0
+32263,32955,32963,32969,Middle Africa,Africa,Geography,International Data,0
+32263,32955,32967,32986,Micronesia,Oceania,Geography,International Data,0
+32263,32955,32963,32972,Western Africa,Africa,Geography,International Data,0
+32263,32956,32957,NA,NA,Major 5 Asia,Institutions,International Data,0
+32263,32956,32959,NA,NA,Group of Seven (G7),Institutions,International Data,0
+32263,32956,33124,NA,NA,Bureau of Labor Statistics Industrialized Countries,Institutions,International Data,0
+32263,32956,32961,NA,NA,OECD + Non-member Economies,Institutions,International Data,0
+32263,32956,32958,NA,NA,Four Big European Countries,Institutions,International Data,0
+32263,32956,33125,NA,NA,Bureau of Labor Statistics Pacific Rim,Institutions,International Data,0
+32263,32956,32947,NA,NA,Euro Area,Institutions,International Data,0
+32263,32956,32948,NA,NA,European Union,Institutions,International Data,0
+32263,32956,32962,NA,NA,OECD Total,Institutions,International Data,0
+32263,32956,33711,NA,NA,International Organizations,Institutions,International Data,0
+32263,32956,33713,NA,NA,Unidentified Countries,Institutions,International Data,0
+32263,32956,32960,NA,NA,NAFTA,Institutions,International Data,0
+32263,32956,33002,NA,NA,European Economic Area,Institutions,International Data,0
+32263,32956,33909,NA,NA,Advance Technology Products,Institutions,International Data,0
+32263,32956,33911,NA,NA,NICS,Institutions,International Data,0
+32263,32956,33083,NA,NA,Group of Twenty Finance Ministers and Central Bank Governors (G20),Institutions,International Data,0
+32263,32956,33903,NA,NA,Advanced Economies,Institutions,International Data,0
+32263,32956,33086,NA,NA,Non-OECD,Institutions,International Data,0
+32263,32956,33087,NA,NA,OECD - Europe,Institutions,International Data,0
+32263,32956,33128,NA,NA,Bureau of Labor Statistics Latin America,Institutions,International Data,0
+32263,32956,33239,NA,NA,International Monetary Fund,Institutions,International Data,0
+32263,32956,33085,NA,NA,OECD Non-member Economies,Institutions,International Data,0
+32263,32956,33953,NA,NA,USMCA,Institutions,International Data,0
+32263,32956,33127,NA,NA,Association of Southeast Asian Nations (ASEAN),Institutions,International Data,0
+32263,32956,33901,NA,NA,Emerging Markets,Institutions,International Data,0
+32263,32956,33126,NA,NA,Bureau of Labor Statistics Asian Newly Industrialized Countries,Institutions,International Data,0
+32263,32265,33288,33289,Confidence indicators,Business tendency surveys (manufacturing),Indicators,International Data,0
+32263,32264,32831,NA,NA,Turks and Caicos Islands,Countries,International Data,0
+32263,32264,32807,NA,NA,Serbia,Countries,International Data,0
+32263,32265,32998,32427,Producer Price Indexes,Prices,Indicators,International Data,0
+32263,32264,32839,NA,NA,Vanuatu,Countries,International Data,0
+32263,32264,32792,NA,NA,Reunion,Countries,International Data,0
+32263,32264,32770,NA,NA,Namibia,Countries,International Data,0
+32263,32264,32768,NA,NA,Mozambique,Countries,International Data,0
+32263,32264,32767,NA,NA,Morocco,Countries,International Data,0
+32263,32264,32833,NA,NA,Uganda,Countries,International Data,0
+32263,32264,32804,NA,NA,Sao Tome and Principe,Countries,International Data,0
+32263,32265,32294,33209,Business Tendency Surveys,Production & Business Activity,Indicators,International Data,0
+32263,32265,32294,33222,Housing,Production & Business Activity,Indicators,International Data,0
+32263,32264,32811,NA,NA,Solomon Islands,Countries,International Data,0
+32455,9,32423,NA,NA,Commodity and Services Groups,Consumer Price Indexes (CPI and PCE),Prices,0
+32455,31,33583,33575,Final Demand,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,9,32421,NA,NA,Education and Communication,Consumer Price Indexes (CPI and PCE),Prices,0
+32455,9,32424,NA,NA,Special Indexes,Consumer Price Indexes (CPI and PCE),Prices,0
+32455,4,NA,NA,NA,NA,Employment Cost Index,Prices,0
+32455,31,33583,33530,Textile Products and Apparel,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,9,32422,NA,NA,Other Goods and Services,Consumer Price Indexes (CPI and PCE),Prices,0
+32455,31,33583,33542,Miscellaneous Products,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,33717,NA,NA,NA,NA,Health Care Indexes,Prices,0
+32455,9,32420,NA,NA,Recreation,Consumer Price Indexes (CPI and PCE),Prices,0
+32455,9,32419,NA,NA,Medical Care,Consumer Price Indexes (CPI and PCE),Prices,0
+32455,9,32415,NA,NA,Food and Beverages,Consumer Price Indexes (CPI and PCE),Prices,0
+32455,31,33583,33528,Farm Products,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33563,Educational Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33537,Metals and Metal Products,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33565,Food and Beverage for Immediate Consumption Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33532,Fuels and Related Products and Power,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33560,Cleaning and Building Maintenance Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33581,Stage of Processing,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33549,"Telecommunication, Cable, and Internet User Services",Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33590,Finance and Insurance,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33541,Transportation Equipment,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,33913,NA,NA,NA,NA,Cryptocurrencies,Prices,0
+32455,31,33583,33558,Travel Arrangement Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33567,Entertainment Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,9,32418,NA,NA,Transportation,Consumer Price Indexes (CPI and PCE),Prices,0
+32455,31,33583,33568,Wholesale Trade Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33595,Public Administration,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33598,Real Estate and Rental and Leasing,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33571,Mining Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,9,32416,NA,NA,Housing,Consumer Price Indexes (CPI and PCE),Prices,0
+32455,31,33583,33547,Network Compensation from Broadcast and Cable Television and Radio,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33540,Nonmetallic Mineral Products,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33551,Credit Intermediation Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33553,Insurance and Annuities,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33577,Intermediate Demand By Commodity Type,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33576,Intermediate Demand By Production Flow,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,9,32417,NA,NA,Apparel,Consumer Price Indexes (CPI and PCE),Prices,0
+32455,31,33584,33594,Other Services (except Public Administration),Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33599,"Professional, Scientific, and Technical Services",Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33538,Machinery and Equipment,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33564,Accommodation Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33548,Advertising Space and Time Sales,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33601,Transportation and Warehousing,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33580,Special Indexes,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33587,"Arts, Entertainment, and Recreation",Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33591,Educational Services,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,32220,32224,33905,Standard International Trade Classification,Export Price Indexes,Trade Indexes,Prices,0
+32455,31,33584,33585,"Agriculture, Forestry, Fishing and Hunting",Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33543,Transportation Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33552,Investment Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33535,Lumber and Wood Products,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33562,Waste Collection and Remediation Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,32220,32224,32227,By NAICS,Export Price Indexes,Trade Indexes,Prices,0
+32455,31,33583,33570,Metal Treatment Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33534,Rubber and Plastic Products,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33600,Retail Trade,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33539,Furniture and Household Durables,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33589,Construction,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33573,Construction,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33561,Health Care Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33550,Data Processing and Related Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33574,Durability of Product,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33588,Administrative and Support and Waste Management and Remediation Services,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33544,"Warehousing, Storage, and Related Services",Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33596,"Mining, Quarrying, and Oil and Gas Extraction",Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33533,Chemicals and Allied Products,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33566,Repair and Maintenance Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33603,Wholesale Trade,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33559,Selected Security Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33556,Professional Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33602,Utilities,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33536,"Pulp, Paper, and Allied Products",Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33529,Processed Foods and Feeds,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33555,Rental and Leasing of Goods,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33545,"Publishing Sales, Excluding Software",Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,32220,32221,33907,Standard International Trade Classification,Import Price Indexes,Trade Indexes,Prices,0
+32455,31,33583,33554,Real Estate Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33569,Retail Trade Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,32261,NA,NA,NA,NA,House Price Indexes,Prices,0
+32455,32220,32224,32225,End Use Classification System,Export Price Indexes,Trade Indexes,Prices,0
+32455,32220,32224,32228,By Harmonized System,Export Price Indexes,Trade Indexes,Prices,0
+32455,32220,32221,32229,By Harmonized System,Import Price Indexes,Trade Indexes,Prices,0
+32455,31,33583,33582,Inputs to Industries,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33557,Employment Services,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33586,Accommodation and Food Services,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,32220,32221,32230,By Locality of Origin,Import Price Indexes,Trade Indexes,Prices,0
+32455,32220,32231,NA,NA,Services Price Indexes,Trade Indexes,Prices,0
+32455,32220,32221,32226,By NAICS,Import Price Indexes,Trade Indexes,Prices,0
+32455,31,33583,33546,Software Publishing,Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,32220,32221,32223,End Use Classification System,Import Price Indexes,Trade Indexes,Prices,0
+32455,31,33583,33531,"Hides, Skins, Leather, and Related Products",Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33593,Health Care and Social Assistance,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33592,Information,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33583,33572,"Contract Work on Textile Products, Apparel, and Leather",Commodity Based,Producer Price Indexes (PPI),Prices,0
+32455,31,33584,33597,Manufacturing,Industry Based,Producer Price Indexes (PPI),Prices,0
+32455,32217,NA,NA,NA,NA,Commodities,Prices,0
+32991,15,158,279,Finland,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,22,32298,NA,NA,Eurodollar Deposits,Interest Rates,"Money, Banking, & Finance",0
+32991,22,33003,NA,NA,LIBOR Rates,Interest Rates,"Money, Banking, & Finance",0
+32991,15,158,285,Belgium,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,22,33446,NA,NA,Interest Rate Spreads,Interest Rates,"Money, Banking, & Finance",0
+32991,15,158,273,Hong Kong,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,271,Ireland,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,261,South Korea,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,269,Mexico,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,24,32242,NA,NA,Money Velocity,Monetary Data,"Money, Banking, & Finance",0
+32991,15,158,278,France,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,24,26,NA,NA,Memorandum Items,Monetary Data,"Money, Banking, & Finance",0
+32991,24,122,NA,NA,Borrowings,Monetary Data,"Money, Banking, & Finance",0
+32991,15,158,284,Brazil,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,260,Spain,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,264,Portugal,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,268,Netherlands,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,280,Euro,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,257,Switzerland,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,22,115,NA,NA,Treasury Constant Maturity,Interest Rates,"Money, Banking, & Finance",0
+32991,15,32219,NA,NA,Annual Rates,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,266,New Zealand,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,192,Venezuela,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,24,32215,NA,NA,Factors Affecting Reserve Balances,Monetary Data,"Money, Banking, & Finance",0
+32991,15,158,276,Italy,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,23,83,88,South Atlantic Census Division,Condition of Banks,Banking,"Money, Banking, & Finance",0
+32991,23,32239,NA,NA,Senior Loan Officer Survey,Banking,"Money, Banking, & Finance",0
+32991,15,158,270,Malaysia,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,94,NA,NA,Daily Rates,Exchange Rates,"Money, Banking, & Finance",0
+32991,24,30,NA,NA,MZM,Monetary Data,"Money, Banking, & Finance",0
+32991,22,32995,NA,NA,Long-Term Securities,Interest Rates,"Money, Banking, & Finance",0
+32991,22,51,NA,NA,Bankers Acceptance Rate,Interest Rates,"Money, Banking, & Finance",0
+32991,22,32348,NA,NA,Corporate Bonds,Interest Rates,"Money, Banking, & Finance",0
+32991,46,32425,NA,NA,Volatility Indexes,Financial Indicators,"Money, Banking, & Finance",0
+32991,46,32414,32413,BofA Merrill Lynch Total Bond Return Index Values,Bond Market Indexes,Financial Indicators,"Money, Banking, & Finance",0
+32991,46,33119,NA,NA,Consumer Financial Condition Indexes,Financial Indicators,"Money, Banking, & Finance",0
+32991,46,32255,NA,NA,Stock Market Indexes,Financial Indicators,"Money, Banking, & Finance",0
+32991,22,33057,NA,NA,Personal Loan Rates,Interest Rates,"Money, Banking, & Finance",0
+32991,24,25,NA,NA,M1 and Components,Monetary Data,"Money, Banking, & Finance",0
+32991,24,28,NA,NA,M3 and Components,Monetary Data,"Money, Banking, & Finance",0
+32991,23,83,84,New England Census Division,Condition of Banks,Banking,"Money, Banking, & Finance",0
+32991,24,96,NA,NA,M2 Minus Small Time Deposits,Monetary Data,"Money, Banking, & Finance",0
+32991,15,158,275,Japan,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,283,Canada,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,24,124,NA,NA,Monetary Base,Monetary Data,"Money, Banking, & Finance",0
+32991,15,158,258,Sweden,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,281,Denmark,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,23,83,87,West North Central Census Division,Condition of Banks,Banking,"Money, Banking, & Finance",0
+32991,23,100,33080,Foreign-Related Institutions,Commercial Banking,Banking,"Money, Banking, & Finance",0
+32991,23,83,89,East South Central Census Division,Condition of Banks,Banking,"Money, Banking, & Finance",0
+32991,23,64,71,Tennessee,8th District Banking Performance,Banking,"Money, Banking, & Finance",0
+32991,15,158,277,Germany,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,23,64,66,Illinois,8th District Banking Performance,Banking,"Money, Banking, & Finance",0
+32991,15,158,259,Sri Lanka,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,287,Australia,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,286,Austria,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,267,Taiwan,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,254,Thailand,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,191,United Kingdom,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,282,China,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,22,120,NA,NA,Commercial Paper,Interest Rates,"Money, Banking, & Finance",0
+32991,15,158,274,Greece,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,263,Singapore,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,95,NA,NA,Monthly Rates,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,272,India,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,23,100,33079,Domestically Chartered Commercial Banks,Commercial Banking,Banking,"Money, Banking, & Finance",0
+32991,22,32299,NA,NA,Interest Rate Swaps,Interest Rates,"Money, Banking, & Finance",0
+32991,22,117,NA,NA,Prime Bank Loan Rate,Interest Rates,"Money, Banking, & Finance",0
+32991,22,33491,NA,NA,Saving Accounts,Interest Rates,"Money, Banking, & Finance",0
+32991,22,33059,NA,NA,Credit Card Loan Rates,Interest Rates,"Money, Banking, & Finance",0
+32991,22,116,NA,NA,Treasury Bills,Interest Rates,"Money, Banking, & Finance",0
+32991,24,123,NA,NA,Reserves,Monetary Data,"Money, Banking, & Finance",0
+32991,22,33056,NA,NA,Interest Checking Accounts,Interest Rates,"Money, Banking, & Finance",0
+32991,24,29,NA,NA,M2 and Components,Monetary Data,"Money, Banking, & Finance",0
+32991,24,32218,NA,NA,"Securities, Loans, & Other Assets & Liabilities Held by Fed",Monetary Data,"Money, Banking, & Finance",0
+32991,32360,32379,32384,Size of Loans,Commercial and Industrial Loans Made by Large Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32406,32407,All Commercial Banks,Commercial and Industrial Loans by Time that Pricing Terms Were Set and by Commitment,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32388,32390,Base Rate of Loans,Commercial and Industrial Loans Made by Small Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32388,32392,More Than 365 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by Small Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,22,82,NA,NA,Treasury Inflation-Indexed Securities,Interest Rates,"Money, Banking, & Finance",0
+32991,23,64,72,8th District,8th District Banking Performance,Banking,"Money, Banking, & Finance",0
+32991,23,100,33081,Large Domestically Chartered Commercial Banks,Commercial Banking,Banking,"Money, Banking, & Finance",0
+32991,23,64,68,Kentucky,8th District Banking Performance,Banking,"Money, Banking, & Finance",0
+32991,23,83,90,West South Central Census Division,Condition of Banks,Banking,"Money, Banking, & Finance",0
+32991,15,105,NA,NA,Trade-Weighted Indexes,Exchange Rates,"Money, Banking, & Finance",0
+32991,15,158,265,Norway,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,23,101,NA,NA,Consumer Credit,Banking,"Money, Banking, & Finance",0
+32991,32360,32397,32403,31 to 365 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32379,32387,Zero Repricing/Maturity Interval,Commercial and Industrial Loans Made by Large Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32370,32373,More Than 365 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32361,32367,More Than 365 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by All Commercial Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32397,32399,Base Rate of Loans,Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32397,32402,Size of Loans,Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32397,32401,More Than 365 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32406,32409,Foreign Banks,Commercial and Industrial Loans by Time that Pricing Terms Were Set and by Commitment,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32370,32376,31 to 365 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32406,32410,Large Domestic Banks,Commercial and Industrial Loans by Time that Pricing Terms Were Set and by Commitment,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32397,32400,Daily Repricing/Maturity Interval,Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32397,32398,All Commercial and Industrial Loans,Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32388,32396,Zero Repricing/Maturity Interval,Commercial and Industrial Loans Made by Small Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32361,32366,31 to 365 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by All Commercial Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32145,NA,NA,NA,NA,Foreign Exchange Intervention,"Money, Banking, & Finance",0
+32991,22,118,NA,NA,"FRB Rates - discount, fed funds, primary credit",Interest Rates,"Money, Banking, & Finance",0
+32991,22,114,NA,NA,Mortgage Rates,Interest Rates,"Money, Banking, & Finance",0
+32991,22,121,NA,NA,Certificates of Deposit,Interest Rates,"Money, Banking, & Finance",0
+32991,22,33055,NA,NA,Money Market Accounts,Interest Rates,"Money, Banking, & Finance",0
+32991,32360,32370,32377,2 to 30 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32406,32411,Small Domestic Banks,Commercial and Industrial Loans by Time that Pricing Terms Were Set and by Commitment,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32370,32374,Size of Loans,Commercial and Industrial Loans Made by Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32379,32381,Base Rate of Loans,Commercial and Industrial Loans Made by Large Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32379,32382,Daily Repricing/Maturity Interval,Commercial and Industrial Loans Made by Large Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,22,33058,NA,NA,Automobile Loan Rates,Interest Rates,"Money, Banking, & Finance",0
+32991,32360,32406,32412,Summary Statistics,Commercial and Industrial Loans by Time that Pricing Terms Were Set and by Commitment,Business Lending,"Money, Banking, & Finance",0
+32991,46,32457,NA,NA,Financial Activity Measures,Financial Indicators,"Money, Banking, & Finance",0
+32991,32360,32370,32372,Daily Repricing/Maturity Interval,Commercial and Industrial Loans Made by Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,15,158,262,South Africa,By Country,Exchange Rates,"Money, Banking, & Finance",0
+32991,23,99,NA,NA,Securities & Investments,Banking,"Money, Banking, & Finance",0
+32991,23,32439,NA,NA,Net Charge-Offs and Charge-Off Rates,Banking,"Money, Banking, & Finance",0
+32991,32360,32379,32380,All Commercial and Industrial Loans,Commercial and Industrial Loans Made by Large Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,23,83,91,Mountain Census Division,Condition of Banks,Banking,"Money, Banking, & Finance",0
+32991,32360,32388,32393,Size of Loans,Commercial and Industrial Loans Made by Small Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32388,32394,31 to 365 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by Small Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32388,32395,2 to 30 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by Small Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,33440,NA,NA,Commercial and Industrial Loans Made Under Participation or Syndication,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32996,NA,NA,Commercial Paper,Business Lending,"Money, Banking, & Finance",0
+32991,23,83,86,East North Central Census Division,Condition of Banks,Banking,"Money, Banking, & Finance",0
+32991,23,83,85,Middle Atlantic Census Division,Condition of Banks,Banking,"Money, Banking, & Finance",0
+32991,32360,32397,32405,Zero Repricing/Maturity Interval,Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32370,32375,Base Rate of Loans,Commercial and Industrial Loans Made by Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32361,32364,Daily Repricing/Maturity Interval,Commercial and Industrial Loans Made by All Commercial Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32406,32408,Domestic Banks,Commercial and Industrial Loans by Time that Pricing Terms Were Set and by Commitment,Business Lending,"Money, Banking, & Finance",0
+32991,23,33121,NA,NA,Failures and Assistance Transactions,Banking,"Money, Banking, & Finance",0
+32991,23,83,92,Pacific Census Division,Condition of Banks,Banking,"Money, Banking, & Finance",0
+32991,23,83,93,United States,Condition of Banks,Banking,"Money, Banking, & Finance",0
+32991,23,64,70,Missouri,8th District Banking Performance,Banking,"Money, Banking, & Finance",0
+32991,23,100,33078,All Commercial Banks,Commercial Banking,Banking,"Money, Banking, & Finance",0
+32991,23,33445,NA,NA,Mortgage Debt Outstanding,Banking,"Money, Banking, & Finance",0
+32991,32360,33439,NA,NA,Commercial and Industrial Loans Backed by Small Business Association,Business Lending,"Money, Banking, & Finance",0
+32991,23,64,65,Arkansas,8th District Banking Performance,Banking,"Money, Banking, & Finance",0
+32991,23,100,33082,Small Domestically Chartered Commercial Banks,Commercial Banking,Banking,"Money, Banking, & Finance",0
+32991,23,32440,NA,NA,Delinquencies and Delinquency Rates,Banking,"Money, Banking, & Finance",0
+32991,32360,32370,32371,All Commercial and Industrial Loans,Commercial and Industrial Loans Made by Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32388,32391,Daily Repricing/Maturity Interval,Commercial and Industrial Loans Made by Small Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32361,32362,All Commercial and Industrial Loans,Commercial and Industrial Loans Made by All Commercial Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32361,32363,Zero Repricing/Maturity Interval,Commercial and Industrial Loans Made by All Commercial Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32388,32389,All Commercial and Industrial Loans,Commercial and Industrial Loans Made by Small Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32397,32404,2 to 30 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32379,32383,More Than 365 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by Large Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32370,32378,Zero Repricing/Maturity Interval,Commercial and Industrial Loans Made by Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32379,32385,31 to 365 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by Large Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32361,32369,Base Rate of Loans,Commercial and Industrial Loans Made by All Commercial Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32361,32365,2 to 30 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by All Commercial Banks,Business Lending,"Money, Banking, & Finance",0
+32991,32360,32361,32368,Size of Loans,Commercial and Industrial Loans Made by All Commercial Banks,Business Lending,"Money, Banking, & Finance",0
+32991,23,64,69,Mississippi,8th District Banking Performance,Banking,"Money, Banking, & Finance",0
+32991,23,64,67,Indiana,8th District Banking Performance,Banking,"Money, Banking, & Finance",0
+32991,32360,32379,32386,2 to 30 Days Repricing/Maturity Interval,Commercial and Industrial Loans Made by Large Domestic Banks,Business Lending,"Money, Banking, & Finance",0
+32992,18,33045,33053,Imputed Interest,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,110,33028,Personal Consumption Expenditures,Personal Income & Outlays,National Income & Product Accounts,National Accounts,0
+32992,18,107,33022,Gov't Consumption Expenditures,"Gov't Receipts, Expenditures & Investment",National Income & Product Accounts,National Accounts,0
+32992,32251,33726,NA,NA,L.208 Debt Securities,Flow of Funds,National Accounts,0
+32992,32251,32258,NA,NA,B.101 Balance Sheet of Households and Nonprofit Organizations,Flow of Funds,National Accounts,0
+32992,13,16,NA,NA,Exports,U.S. Trade & International Transactions,National Accounts,0
+32992,13,17,NA,NA,Imports,U.S. Trade & International Transactions,National Accounts,0
+32992,32251,33245,NA,NA,S.8 State and Local Governments,Flow of Funds,National Accounts,0
+32992,32251,33204,NA,NA,S.1 Total Economy - Current Account,Flow of Funds,National Accounts,0
+32992,18,108,33018,Exports,Foreign Transactions,National Income & Product Accounts,National Accounts,0
+32992,32251,33722,NA,NA,L.203 Net Interbank Transactions,Flow of Funds,National Accounts,0
+32992,5,NA,NA,NA,NA,Federal Government Debt,National Accounts,0
+32992,18,33045,33869,Wholesale Trade,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,107,33026,Gov't Social Benefits,"Gov't Receipts, Expenditures & Investment",National Income & Product Accounts,National Accounts,0
+32992,18,107,33027,Gov't Fixed Investment,"Gov't Receipts, Expenditures & Investment",National Income & Product Accounts,National Accounts,0
+32992,18,110,33032,Personal Current Taxes,Personal Income & Outlays,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33875,Information,Industry,National Income & Product Accounts,National Accounts,0
+32992,32251,32257,NA,NA,L.1 Credit Market Debt Outstanding,Flow of Funds,National Accounts,0
+32992,32251,33242,NA,NA,S.5 Nonfinancial Corporate Business,Flow of Funds,National Accounts,0
+32992,32251,32259,NA,NA,B.103 Balance Sheet of Nonfinancial Corporate Business,Flow of Funds,National Accounts,0
+32992,32251,33244,NA,NA,S.7 Federal Government,Flow of Funds,National Accounts,0
+32992,32251,32260,NA,NA,B.104 Balance Sheet of Nonfinancial Noncorporate Business,Flow of Funds,National Accounts,0
+32992,18,110,33029,Compensation of Employees,Personal Income & Outlays,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33889,Government,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,33054,NA,NA,Imputations,National Income & Product Accounts,National Accounts,0
+32992,18,110,33030,Wage and Salary Accruals,Personal Income & Outlays,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33881,Management Of Companies and Enterprises,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,112,33043,Capital Transfers Received,Domestic Capital Account (Saving & Investment),National Income & Product Accounts,National Accounts,0
+32992,18,33122,NA,NA,Gross Domestic Income,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33046,Auto Output,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33865,Construction,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,112,33038,Inventories,Domestic Capital Account (Saving & Investment),National Income & Product Accounts,National Accounts,0
+32992,32251,33729,NA,NA,L.214 Loans,Flow of Funds,National Accounts,0
+32992,32251,33205,NA,NA,S.2 Selected Aggregates for Total Economy and Sectors,Flow of Funds,National Accounts,0
+32992,32251,33243,NA,NA,S.6 Financial Business,Flow of Funds,National Accounts,0
+32992,18,33045,33863,Utilities,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,110,33031,Employer Contributions,Personal Income & Outlays,National Income & Product Accounts,National Accounts,0
+32992,18,33401,NA,NA,Effect of ARRA on Selected NIPA Estimates,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33048,Households,Industry,National Income & Product Accounts,National Accounts,0
+32992,32251,33240,NA,NA,S.3 Households and Nonprofit Institutions Serving Households,Flow of Funds,National Accounts,0
+32992,18,33045,33859,"Agriculture, Forestry, Fishing, and Hunting",Industry,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33887,"Arts, Entertainment, Recreation, Accommodation, and Food Services",Industry,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33861,Mining,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,107,33023,Gov't Investment,"Gov't Receipts, Expenditures & Investment",National Income & Product Accounts,National Accounts,0
+32992,18,108,33019,Imports,Foreign Transactions,National Income & Product Accounts,National Accounts,0
+32992,18,109,33035,Corporate Dividends,Private Enterprise Income,National Income & Product Accounts,National Accounts,0
+32992,18,33697,33701,Depreciation,Fixed Assets,National Income & Product Accounts,National Accounts,0
+32992,32251,33246,NA,NA,S.9 Rest of the World,Flow of Funds,National Accounts,0
+32992,18,33697,33703,Fixed Investment,Fixed Assets,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33050,Full-time Equivalent Employees,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33049,Full-time & Part-time Employees,Industry,National Income & Product Accounts,National Accounts,0
+32992,32251,33241,NA,NA,S.4 Nonfinancial Noncorporate Business,Flow of Funds,National Accounts,0
+32992,18,33021,NA,NA,Quantity Indexes,National Income & Product Accounts,National Accounts,0
+32992,18,112,33042,Capital Transfers Paid,Domestic Capital Account (Saving & Investment),National Income & Product Accounts,National Accounts,0
+32992,18,33045,33867,Manufacturing,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,112,33040,Consumptions of Fixed Capital,Domestic Capital Account (Saving & Investment),National Income & Product Accounts,National Accounts,0
+32992,18,112,33041,Corporate Capital Consumption,Domestic Capital Account (Saving & Investment),National Income & Product Accounts,National Accounts,0
+32992,18,112,33037,Domestic Investments,Domestic Capital Account (Saving & Investment),National Income & Product Accounts,National Accounts,0
+32992,18,109,33033,Corporate Profits,Private Enterprise Income,National Income & Product Accounts,National Accounts,0
+32992,18,109,33036,Proprietorship,Private Enterprise Income,National Income & Product Accounts,National Accounts,0
+32992,18,112,33039,Private Fixed Investments,Domestic Capital Account (Saving & Investment),National Income & Product Accounts,National Accounts,0
+32992,18,109,33034,Taxes on Corporate Income,Private Enterprise Income,National Income & Product Accounts,National Accounts,0
+32992,18,107,33025,Gov't Current Transfer Receipts,"Gov't Receipts, Expenditures & Investment",National Income & Product Accounts,National Accounts,0
+32992,18,33719,NA,NA,Health Care Spending,National Income & Product Accounts,National Accounts,0
+32992,32251,32256,NA,NA,D.3 Credit Market Debt Outstanding by Sector,Flow of Funds,National Accounts,0
+32992,18,107,33024,Gov't Current Expenditures,"Gov't Receipts, Expenditures & Investment",National Income & Product Accounts,National Accounts,0
+32992,18,33045,33052,Persons Engaged in Production,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33885,"Educational Services, Health Care, and Social Assistance",Industry,National Income & Product Accounts,National Accounts,0
+32992,13,127,NA,NA,U.S. International Finance,U.S. Trade & International Transactions,National Accounts,0
+32992,13,125,NA,NA,Trade Balance,U.S. Trade & International Transactions,National Accounts,0
+32992,18,33697,33699,Net Stocks,Fixed Assets,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33873,Transportation and Warehousing,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,112,33044,Noncorporate Business,Domestic Capital Account (Saving & Investment),National Income & Product Accounts,National Accounts,0
+32992,18,21,NA,NA,Price Indexes & Deflators,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33051,Self-employed Persons,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33877,"Finance, Insurance, Real Estate, Rental, and Leasing",Industry,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33883,Administrative and Waste Management Services,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,33045,33047,Farm Output,Industry,National Income & Product Accounts,National Accounts,0
+32992,18,106,33020,Shares of GDP,GDP/GNP,National Income & Product Accounts,National Accounts,0
+32992,13,33705,NA,NA,International Investment Position,U.S. Trade & International Transactions,National Accounts,0
+32992,18,33045,33879,Professional and Business Services,Industry,National Income & Product Accounts,National Accounts,0
+32992,13,3000,NA,NA,Income Payments & Receipts,U.S. Trade & International Transactions,National Accounts,0
+32992,18,33045,33871,Retail Trade,Industry,National Income & Product Accounts,National Accounts,0
+33060,33061,33062,NA,NA,Production of Commodities,NBER Macrohistory Database,Academic Data,0
+33060,33061,33069,NA,NA,Income and Employment,NBER Macrohistory Database,Academic Data,0
+33060,33061,33064,NA,NA,Transportation and Public Utilities,NBER Macrohistory Database,Academic Data,0
+33060,33061,33063,NA,NA,Construction,NBER Macrohistory Database,Academic Data,0
+33060,33061,33076,NA,NA,Government and Finance,NBER Macrohistory Database,Academic Data,0
+33060,33061,33068,NA,NA,Foreign Trade,NBER Macrohistory Database,Academic Data,0
+33060,33100,33117,NA,NA,Real GDP per Hour Worked by Employees,Penn World Table 7.1,Academic Data,0
+33060,33100,33110,NA,NA,GDP per Capita (Current Prices),Penn World Table 7.1,Academic Data,0
+33060,33100,33118,NA,NA,Purchasing Power Parity Converted GDP,Penn World Table 7.1,Academic Data,0
+33060,33100,33101,NA,NA,Population,Penn World Table 7.1,Academic Data,0
+33060,33100,33102,NA,NA,Exchange Rates,Penn World Table 7.1,Academic Data,0
+33060,33100,33103,NA,NA,Purchasing Power Parity,Penn World Table 7.1,Academic Data,0
+33060,33100,33104,NA,NA,"Price Levels of GDP, Consumption, Government, and Investment",Penn World Table 7.1,Academic Data,0
+33060,33100,33105,NA,NA,Openness,Penn World Table 7.1,Academic Data,0
+33060,33061,33070,NA,NA,Financial Status of Business,NBER Macrohistory Database,Academic Data,0
+33060,33061,33066,NA,NA,Stocks of Commodities,NBER Macrohistory Database,Academic Data,0
+33060,33100,33111,NA,NA,Real GDP per Capita (Constant Prices),Penn World Table 7.1,Academic Data,0
+33060,33100,33108,NA,NA,Ratio of GNP to GDP,Penn World Table 7.1,Academic Data,0
+33060,33100,33114,NA,NA,Real GDP per Worker,Penn World Table 7.1,Academic Data,0
+33060,33100,33116,NA,NA,Real GDP per Person Counted in Total Employment,Penn World Table 7.1,Academic Data,0
+33060,33100,33112,NA,NA,"Gross Domestic Income, Adjustments for Changes in Terms of Trade",Penn World Table 7.1,Academic Data,0
+33060,33100,33113,NA,NA,Real GDP per Equivalent Adult,Penn World Table 7.1,Academic Data,0
+33060,33123,NA,NA,NA,NA,"Weekly U.S. and State Bond Prices, 1855-1865",Academic Data,0
+33060,33201,NA,NA,NA,NA,Economic Policy Uncertainty,Academic Data,0
+33060,33100,33106,NA,NA,Component Shares of GDP per Capita (Current Prices),Penn World Table 7.1,Academic Data,0
+33060,33120,NA,NA,NA,NA,Recession Probabilities,Academic Data,0
+33060,33402,33405,NA,NA,National Accounts-Based Variables,Penn World Table 9.0,Academic Data,0
+33060,33402,33403,NA,NA,"Real GDP, Employment and Population Levels",Penn World Table 9.0,Academic Data,0
+33060,33402,33406,NA,NA,Exchange Rates and GDP Price Levels,Penn World Table 9.0,Academic Data,0
+33060,33402,33407,NA,NA,Shares in Output-side Real GDP at Current Purchasing Power Parities,Penn World Table 9.0,Academic Data,0
+33060,33402,33404,NA,NA,"Current Price GDP, Capital and Total Factor Productivity",Penn World Table 9.0,Academic Data,0
+33060,33402,33408,NA,NA,"Price Levels, Expenditure Categories and Capital",Penn World Table 9.0,Academic Data,0
+33060,33061,33067,NA,NA,Distribution of Commodities,NBER Macrohistory Database,Academic Data,0
+33060,33442,NA,NA,NA,NA,Sticky Wages and Comovement,Academic Data,0
+33060,33061,33074,NA,NA,Interest Rates,NBER Macrohistory Database,Academic Data,0
+33060,33061,33077,NA,NA,Leading Indicators,NBER Macrohistory Database,Academic Data,0
+33060,33061,33071,NA,NA,Savings and Investment,NBER Macrohistory Database,Academic Data,0
+33060,33061,33073,NA,NA,Volume of Transactions,NBER Macrohistory Database,Academic Data,0
+33060,33061,33065,NA,NA,Prices,NBER Macrohistory Database,Academic Data,0
+33060,33061,33075,NA,NA,Money and Banking,NBER Macrohistory Database,Academic Data,0
+33060,33825,NA,NA,NA,NA,Data on the nominal term structure model from Kim and Wright,Academic Data,0
+33060,33061,33072,NA,NA,Security Markets,NBER Macrohistory Database,Academic Data,0
+33060,33833,33835,NA,NA,Section 1. General Statistics of All Banks in the United States,"Banking and Monetary Statistics, 1914-1941",Academic Data,0
+33060,33833,33837,NA,NA,Section 2. Assets and Liabilities of All Member Banks,"Banking and Monetary Statistics, 1914-1941",Academic Data,0
+33060,33839,33845,NA,NA,National Accounts,A Millennium of Macroeconomic Data for the UK,Academic Data,0
+33060,33839,33847,NA,NA,Wages and Prices,A Millennium of Macroeconomic Data for the UK,Academic Data,0
+33060,33839,33849,NA,NA,Financial Markets,A Millennium of Macroeconomic Data for the UK,Academic Data,0
+33060,33839,33853,NA,NA,Fiscal,A Millennium of Macroeconomic Data for the UK,Academic Data,0
+33060,33839,33855,NA,NA,Trade,A Millennium of Macroeconomic Data for the UK,Academic Data,0
+33060,33839,33851,NA,NA,Money and Credit,A Millennium of Macroeconomic Data for the UK,Academic Data,0
+33060,33839,33843,NA,NA,"Labour, Capital and Productivity",A Millennium of Macroeconomic Data for the UK,Academic Data,0
+33060,33891,NA,NA,NA,NA,Historical Federal Reserve Data,Academic Data,0
+33060,33100,33107,NA,NA,Component Shares of GDP per Capita (Constant Prices),Penn World Table 7.1,Academic Data,0
+33060,33934,NA,NA,NA,NA,"New England Textile Industry, 1815-1860",Academic Data,0
+33060,33100,33109,NA,NA,Real GDP per Capita Relative to U.S.,Penn World Table 7.1,Academic Data,0
+33060,33100,33115,NA,NA,Real GDP per Person Engaged,Penn World Table 7.1,Academic Data,0
+33060,33951,NA,NA,NA,NA,"Daily Federal Funds Rate, 1928-54",Academic Data,0

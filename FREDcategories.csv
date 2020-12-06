@@ -1,0 +1,1221 @@
+id,name,parent_id
+32991,"Money, Banking, & Finance",0
+10,"Population, Employment, & Labor Markets",0
+32992,National Accounts,0
+1,Production & Business Activity,0
+32455,Prices,0
+32263,International Data,0
+3008,U.S. Regional Data,0
+33060,Academic Data,0
+22,Interest Rates,32991
+15,Exchange Rates,32991
+24,Monetary Data,32991
+46,Financial Indicators,32991
+23,Banking,32991
+32360,Business Lending,32991
+32145,Foreign Exchange Intervention,32991
+12,Current Population Survey (Household Survey),10
+11,Current Employment Statistics (Establishment Survey),10
+32250,ADP Employment,10
+33500,Education,10
+33001,Income Distribution,10
+32241,Job Openings and Labor Turnover (JOLTS),10
+33509,Labor Market Conditions,10
+104,Population,10
+2,Productivity & Costs,10
+33831,Minimum Wage,10
+32240,Weekly Initial Claims,10
+33731,Tax Data,10
+18,National Income & Product Accounts,32992
+5,Federal Government Debt,32992
+32251,Flow of Funds,32992
+13,U.S. Trade & International Transactions,32992
+32262,Business Cycle Expansions & Contractions,1
+33936,Business Surveys,1
+32436,Construction,1
+33940,Emissions,1
+33490,Finance Companies,1
+32216,Health Insurance,1
+97,Housing,1
+3,Industrial Production & Capacity Utilization,1
+32429,Manufacturing,1
+6,Retail Trade,1
+33441,Services,1
+33492,Technology,1
+33202,Transportation,1
+33203,Wholesale Trade,1
+32217,Commodities,32455
+9,Consumer Price Indexes (CPI and PCE),32455
+33913,Cryptocurrencies,32455
+4,Employment Cost Index,32455
+33717,Health Care Indexes,32455
+32261,House Price Indexes,32455
+31,Producer Price Indexes (PPI),32455
+32220,Trade Indexes,32455
+32264,Countries,32263
+32955,Geography,32263
+32265,Indicators,32263
+32956,Institutions,32263
+27281,States,3008
+32043,Census Regions,3008
+32061,BEA Regions,3008
+32849,BLS Regions,3008
+32071,Federal Reserve Districts,3008
+32233,Freddie Mac Regions,3008
+33833,"Banking and Monetary Statistics, 1914-1941",33060
+33951,"Daily Federal Funds Rate, 1928-54",33060
+33825,Data on the nominal term structure model from Kim and Wright,33060
+33891,Historical Federal Reserve Data,33060
+33061,NBER Macrohistory Database,33060
+33100,Penn World Table 7.1,33060
+33402,Penn World Table 9.0,33060
+33120,Recession Probabilities,33060
+33123,"Weekly U.S. and State Bond Prices, 1855-1865",33060
+33201,Economic Policy Uncertainty,33060
+33442,Sticky Wages and Comovement,33060
+33839,A Millennium of Macroeconomic Data for the UK,33060
+33934,"New England Textile Industry, 1815-1860",33060
+33058,Automobile Loan Rates,22
+51,Bankers Acceptance Rate,22
+121,Certificates of Deposit,22
+120,Commercial Paper,22
+32348,Corporate Bonds,22
+33059,Credit Card Loan Rates,22
+32298,Eurodollar Deposits,22
+118,"FRB Rates - discount, fed funds, primary credit",22
+33056,Interest Checking Accounts,22
+33446,Interest Rate Spreads,22
+32299,Interest Rate Swaps,22
+33003,LIBOR Rates,22
+32995,Long-Term Securities,22
+33055,Money Market Accounts,22
+114,Mortgage Rates,22
+33057,Personal Loan Rates,22
+117,Prime Bank Loan Rate,22
+33491,Saving Accounts,22
+116,Treasury Bills,22
+115,Treasury Constant Maturity,22
+82,Treasury Inflation-Indexed Securities,22
+94,Daily Rates,15
+95,Monthly Rates,15
+32219,Annual Rates,15
+105,Trade-Weighted Indexes,15
+158,By Country,15
+124,Monetary Base,24
+123,Reserves,24
+25,M1 and Components,24
+29,M2 and Components,24
+96,M2 Minus Small Time Deposits,24
+28,M3 and Components,24
+30,MZM,24
+26,Memorandum Items,24
+32242,Money Velocity,24
+122,Borrowings,24
+32215,Factors Affecting Reserve Balances,24
+32218,"Securities, Loans, & Other Assets & Liabilities Held by Fed",24
+32414,Bond Market Indexes,46
+33119,Consumer Financial Condition Indexes,46
+32457,Financial Activity Measures,46
+32255,Stock Market Indexes,46
+32425,Volatility Indexes,46
+100,Commercial Banking,23
+83,Condition of Banks,23
+101,Consumer Credit,23
+32440,Delinquencies and Delinquency Rates,23
+33121,Failures and Assistance Transactions,23
+64,8th District Banking Performance,23
+33445,Mortgage Debt Outstanding,23
+32439,Net Charge-Offs and Charge-Off Rates,23
+99,Securities & Investments,23
+32239,Senior Loan Officer Survey,23
+32996,Commercial Paper,32360
+32406,Commercial and Industrial Loans by Time that Pricing Terms Were Set and by Commitment,32360
+33439,Commercial and Industrial Loans Backed by Small Business Association,32360
+32361,Commercial and Industrial Loans Made by All Commercial Banks,32360
+32370,Commercial and Industrial Loans Made by Domestic Banks,32360
+32379,Commercial and Industrial Loans Made by Large Domestic Banks,32360
+32388,Commercial and Industrial Loans Made by Small Domestic Banks,32360
+32397,Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks,32360
+33440,Commercial and Industrial Loans Made Under Participation or Syndication,32360
+32442,Civilian Labor Force,12
+32443,Civilian Labor Force Participation Rate,12
+32444,Employment,12
+32445,Employment Population Ratio,12
+32446,Unemployment Level,12
+32447,Unemployment Rate,12
+32448,Not in Labor Force,12
+32449,Labor Force Participation Rate,12
+32450,Multiple Jobholders,12
+32451,Duration of Unemployment,12
+32452,Losers and Leavers,12
+33501,Earnings,12
+32453,Entrants and Reentrants,12
+33502,Labor Force Status Flows,12
+32305,Total Nonfarm,11
+32306,Total Private,11
+32307,Goods-Producing,11
+32326,Service-Providing,11
+32308,Private Service-Providing,11
+32309,Mining and Logging,11
+32310,Construction,11
+32311,Manufacturing,11
+32312,Durable Goods,11
+32313,Nondurable Goods,11
+32314,"Trade, Transportation, and Utilities",11
+32315,Wholesale Trade,11
+32316,Retail Trade,11
+32317,Transportation and Warehousing,11
+32318,Utilities,11
+32319,Information,11
+32320,Financial Activities,11
+32321,Professional and Business Services,11
+32322,Education and Health Services,11
+32323,Leisure and Hospitality,11
+32324,Other Services,11
+32325,Government,11
+32243,Job Openings (Levels and Rates),32241
+32245,Hires (Levels and Rates),32241
+32246,Total Separations (Levels and Rates),32241
+32247,Quits (Levels and Rates),32241
+32248,Layoffs and Discharges (Levels and Rates),32241
+32249,Other Separations (Levels and Rates),32241
+33735,Poverty Measures,104
+33514,Supplemental Nutrition Assistance Program,104
+32349,Manufacturing,2
+32350,Business,2
+32351,Nonfarm Business,2
+32354,Nonfinancial Corporations,2
+112,Domestic Capital Account (Saving & Investment),18
+108,Foreign Transactions,18
+33697,Fixed Assets,18
+33122,Gross Domestic Income,18
+106,GDP/GNP,18
+107,"Gov't Receipts, Expenditures & Investment",18
+33719,Health Care Spending,18
+33054,Imputations,18
+33045,Industry,18
+110,Personal Income & Outlays,18
+21,Price Indexes & Deflators,18
+109,Private Enterprise Income,18
+33021,Quantity Indexes,18
+33401,Effect of ARRA on Selected NIPA Estimates,18
+32258,B.101 Balance Sheet of Households and Nonprofit Organizations,32251
+32259,B.103 Balance Sheet of Nonfinancial Corporate Business,32251
+32260,B.104 Balance Sheet of Nonfinancial Noncorporate Business,32251
+32256,D.3 Credit Market Debt Outstanding by Sector,32251
+32257,L.1 Credit Market Debt Outstanding,32251
+33722,L.203 Net Interbank Transactions,32251
+33726,L.208 Debt Securities,32251
+33729,L.214 Loans,32251
+33204,S.1 Total Economy - Current Account,32251
+33205,S.2 Selected Aggregates for Total Economy and Sectors,32251
+33240,S.3 Households and Nonprofit Institutions Serving Households,32251
+33241,S.4 Nonfinancial Noncorporate Business,32251
+33242,S.5 Nonfinancial Corporate Business,32251
+33243,S.6 Financial Business,32251
+33244,S.7 Federal Government,32251
+33245,S.8 State and Local Governments,32251
+33246,S.9 Rest of the World,32251
+16,Exports,13
+17,Imports,13
+3000,Income Payments & Receipts,13
+33705,International Investment Position,13
+125,Trade Balance,13
+127,U.S. International Finance,13
+32300,Housing Units Authorized by Building Permits,97
+32301,"Housing Units Authorized, But Not Yet Started",97
+32302,Housing Starts,97
+32303,Housing Units Under Construction,97
+32304,Housing Units Completed,97
+32426,New Residential Sales,97
+33949,Manufactured Housing,97
+33938,Automotive Production Seasonal Factor,3
+32432,Inventories,32429
+32431,New Orders,32429
+32433,Inventory to Shipments,32429
+32435,Unfilled Orders,32429
+32434,Unfilled Orders to Shipments,32429
+32430,Shipments,32429
+32993,Motor Vehicles,33202
+32415,Food and Beverages,9
+32416,Housing,9
+32417,Apparel,9
+32418,Transportation,9
+32419,Medical Care,9
+32420,Recreation,9
+32421,Education and Communication,9
+32422,Other Goods and Services,9
+32423,Commodity and Services Groups,9
+32424,Special Indexes,9
+33583,Commodity Based,31
+33584,Industry Based,31
+32221,Import Price Indexes,32220
+32224,Export Price Indexes,32220
+32231,Services Price Indexes,32220
+32641,Afghanistan,32264
+32643,Albania,32264
+32644,Algeria,32264
+32645,American Samoa,32264
+32646,Andorra,32264
+32647,Angola,32264
+32648,Anguilla,32264
+32650,Antigua and Barbuda,32264
+32651,Argentina,32264
+32652,Armenia,32264
+32653,Aruba,32264
+32269,Australia,32264
+32282,Austria,32264
+32654,Azerbaijan,32264
+32655,Bahamas,32264
+32656,Bahrain,32264
+32657,Bangladesh,32264
+32658,Barbados,32264
+32659,Belarus,32264
+32270,Belgium,32264
+32660,Belize,32264
+32661,Benin,32264
+32662,Bermuda,32264
+32663,Bhutan,32264
+32664,"Bolivia, Plurinational State of",32264
+32665,Caribbean Netherlands,32264
+32666,Bosnia and Herzegovina,32264
+32667,Botswana,32264
+32327,Brazil,32264
+32669,British Indian Ocean Territory,32264
+32670,Brunei Darussalam,32264
+32671,Bulgaria,32264
+32672,Burkina Faso,32264
+32673,Burundi,32264
+32674,Cambodia,32264
+32675,Cameroon,32264
+32268,Canada,32264
+32676,Cape Verde,32264
+32677,Cayman Islands,32264
+32678,Central African Republic,32264
+32679,Chad,32264
+32328,Chile,32264
+32329,China,32264
+32680,Christmas Island,32264
+32681,Cocos (Keeling) Islands,32264
+32682,Colombia,32264
+32683,Comoros,32264
+32684,"Congo, Republic of the",32264
+32685,"Congo, Democratic Republic of the",32264
+32686,Cook Islands,32264
+32687,Costa Rica,32264
+32688,Côte d’Ivoire,32264
+32689,Croatia,32264
+32690,Cuba,32264
+32691,Curaçao,32264
+32692,Cyprus,32264
+32288,Czech Republic,32264
+32271,Denmark,32264
+32693,Djibouti,32264
+32694,Dominica,32264
+32695,Dominican Republic,32264
+32696,Ecuador,32264
+32697,Egypt,32264
+32698,El Salvador,32264
+32699,Equatorial Guinea,32264
+32700,Eritrea,32264
+32701,Estonia,32264
+32702,Ethiopia,32264
+32703,Falkland Islands,32264
+32704,Faroe Islands,32264
+32705,Fiji,32264
+32289,Finland,32264
+32272,France,32264
+32706,French Guiana,32264
+32707,French Polynesia,32264
+32708,French Southern Territories,32264
+32709,Gabon,32264
+32710,Republic of the Gambia,32264
+32711,Georgia,32264
+32273,Germany,32264
+32712,Ghana,32264
+32713,Gibraltar,32264
+32330,Greece,32264
+32714,Greenland,32264
+32715,Grenada,32264
+32716,Guadeloupe,32264
+32717,Guam,32264
+32718,Guatemala,32264
+32720,Guinea,32264
+32721,Guinea-Bissau,32264
+32722,Guyana,32264
+32723,Haiti,32264
+32724,Heard Island and McDonald Islands,32264
+32725,Holy See (Vatican City State),32264
+32726,Honduras,32264
+32727,Hong Kong,32264
+32331,Hungary,32264
+32334,Iceland,32264
+32333,India,32264
+32332,Indonesia,32264
+32728,"Iran, Islamic Republic of",32264
+32729,Iraq,32264
+32290,Ireland,32264
+32730,Isle of Man,32264
+32335,Israel,32264
+32274,Italy,32264
+32731,Jamaica,32264
+32281,Japan,32264
+32733,Jordan,32264
+32734,Kazakhstan,32264
+32735,Kenya,32264
+32736,Kiribati,32264
+32737,"Korea, Democratic People's Republic of (North Korea)",32264
+32286,"Korea, Republic of (South Korea)",32264
+32738,Kuwait,32264
+32739,Kyrgyz Republic,32264
+32740,Lao People's Democratic Republic,32264
+32741,Latvia,32264
+32742,Lebanon,32264
+32743,Lesotho,32264
+32744,Liberia,32264
+32745,Libyan Arab Jamahiriya,32264
+32746,Liechtenstein,32264
+32747,Lithuania,32264
+32336,Luxembourg,32264
+32748,Macao,32264
+32749,"Macedonia, Former Yugoslav Republic of",32264
+32750,Madagascar,32264
+32751,Malawi,32264
+32752,Malaysia,32264
+32753,Maldives,32264
+32754,Mali,32264
+32755,Malta,32264
+32756,Marshall Islands,32264
+32757,Martinique,32264
+32758,Mauritania,32264
+32759,Mauritius,32264
+32760,Mayotte,32264
+32337,Mexico,32264
+32761,"Micronesia, Federated States of",32264
+32762,"Moldova, Republic of",32264
+32763,Monaco,32264
+32764,Mongolia,32264
+32765,Montenegro,32264
+32766,Montserrat,32264
+32767,Morocco,32264
+32768,Mozambique,32264
+32769,Myanmar,32264
+32770,Namibia,32264
+32771,Nauru,32264
+32772,Nepal,32264
+32275,Netherlands,32264
+32773,New Caledonia,32264
+32338,New Zealand,32264
+32774,Nicaragua,32264
+32775,Niger,32264
+32776,Nigeria,32264
+32777,Niue,32264
+32778,Norfolk Island,32264
+32779,Northern Mariana Islands,32264
+32276,Norway,32264
+32780,Oman,32264
+32781,Pakistan,32264
+32782,Palau,32264
+32783,Palestinian Territories,32264
+32784,Panama,32264
+32785,Papua New Guinea,32264
+32786,Paraguay,32264
+32787,Peru,32264
+32788,Philippines,32264
+32789,Pitcairn,32264
+32339,Poland,32264
+32340,Portugal,32264
+32790,Puerto Rico,32264
+32791,Qatar,32264
+32792,Reunion,32264
+32793,Romania,32264
+32341,Russian Federation,32264
+32794,Rwanda,32264
+32796,"Saint Helena, Ascension and Tristan da Cunha",32264
+32797,Saint Kitts and Nevis,32264
+32798,Saint Lucia,32264
+32799,"Saint Martin, Collectivity of",32264
+32800,Saint Pierre and Miquelon,32264
+32801,Saint Vincent and the Grenadines,32264
+32802,Samoa,32264
+32803,San Marino,32264
+32804,Sao Tome and Principe,32264
+32805,Saudi Arabia,32264
+32806,Senegal,32264
+32807,Serbia,32264
+32808,Seychelles,32264
+32809,Sierra Leone,32264
+32287,Singapore,32264
+32810,Sint Maarten (Dutch part),32264
+32342,Slovak Republic,32264
+32343,Slovenia,32264
+32811,Solomon Islands,32264
+32812,Somalia,32264
+32345,South Africa,32264
+32814,South Sudan,32264
+32277,Spain,32264
+32815,Sri Lanka,32264
+32816,Sudan,32264
+32817,Suriname,32264
+32818,Svalbard and Jan Mayen,32264
+32819,Swaziland,32264
+32278,Sweden,32264
+32279,Switzerland,32264
+32820,Syrian Arab Republic,32264
+32438,Taiwan,32264
+32821,Tajikistan,32264
+32822,"Tanzania, United Republic of",32264
+32823,Thailand,32264
+32824,Timor-Leste,32264
+32825,Togo,32264
+32826,Tokelau,32264
+32827,Tonga,32264
+32828,Trinidad and Tobago,32264
+32829,Tunisia,32264
+32344,Turkey,32264
+32830,Turkmenistan,32264
+32831,Turks and Caicos Islands,32264
+32832,Tuvalu,32264
+32833,Uganda,32264
+32834,Ukraine,32264
+32835,United Arab Emirates,32264
+32280,United Kingdom,32264
+32267,United States,32264
+32837,Uruguay,32264
+32838,Uzbekistan,32264
+32839,Vanuatu,32264
+32840,"Venezuela, Bolivarian Republic of",32264
+32841,Viet Nam,32264
+32842,"Virgin Islands, British",32264
+32843,"Virgin Islands, U.S.",32264
+32844,Wallis and Futuna,32264
+32845,Western Sahara,32264
+32846,"Yemen, Republic of",32264
+32946,Kosovo,32264
+32847,Zambia,32264
+32848,Zimbabwe,32264
+32963,Africa,32955
+32964,Americas,32955
+32965,Asia,32955
+32966,Europe,32955
+32967,Oceania,32955
+32459,World,32955
+33000,"Money, Banking, & Finance",32265
+32997,National Accounts,32265
+32999,"Population, Employment, & Labor Markets",32265
+32294,Production & Business Activity,32265
+32998,Prices,32265
+33247,Consumer Price Index,32265
+33254,Work Started,32265
+33261,Consumer opinion surveys,32265
+33274,Business tendency surveys (construction),32265
+33281,Business tendency surveys (services),32265
+33288,Business tendency surveys (manufacturing),32265
+33344,Business tendency surveys (retail trade),32265
+33368,Business tendency surveys (non-manufacturing),32265
+33903,Advanced Economies,32956
+33127,Association of Southeast Asian Nations (ASEAN),32956
+33126,Bureau of Labor Statistics Asian Newly Industrialized Countries,32956
+33124,Bureau of Labor Statistics Industrialized Countries,32956
+33128,Bureau of Labor Statistics Latin America,32956
+33125,Bureau of Labor Statistics Pacific Rim,32956
+33901,Emerging Markets,32956
+32947,Euro Area,32956
+33002,European Economic Area,32956
+32948,European Union,32956
+32958,Four Big European Countries,32956
+32959,Group of Seven (G7),32956
+33083,Group of Twenty Finance Ministers and Central Bank Governors (G20),32956
+33239,International Monetary Fund,32956
+33711,International Organizations,32956
+32957,Major 5 Asia,32956
+32960,NAFTA,32956
+33086,Non-OECD,32956
+33085,OECD Non-member Economies,32956
+32962,OECD Total,32956
+32961,OECD + Non-member Economies,32956
+33087,OECD - Europe,32956
+33713,Unidentified Countries,32956
+33909,Advance Technology Products,32956
+33911,NICS,32956
+33953,USMCA,32956
+27282,Alabama,27281
+27283,Alaska,27281
+27284,Arizona,27281
+149,Arkansas,27281
+27286,California,27281
+27287,Colorado,27281
+27288,Connecticut,27281
+27289,Delaware,27281
+27290,District of Columbia,27281
+27291,Florida,27281
+27292,Georgia,27281
+27293,Hawaii,27281
+27294,Idaho,27281
+150,Illinois,27281
+151,Indiana,27281
+27297,Iowa,27281
+27298,Kansas,27281
+152,Kentucky,27281
+27300,Louisiana,27281
+27301,Maine,27281
+27302,Maryland,27281
+27303,Massachusetts,27281
+27304,Michigan,27281
+27305,Minnesota,27281
+153,Mississippi,27281
+154,Missouri,27281
+27308,Montana,27281
+27309,Nebraska,27281
+27310,Nevada,27281
+27311,New Hampshire,27281
+27312,New Jersey,27281
+27313,New Mexico,27281
+27314,New York,27281
+27315,North Carolina,27281
+27316,North Dakota,27281
+27317,Ohio,27281
+27318,Oklahoma,27281
+27319,Oregon,27281
+27320,Pennsylvania,27281
+33504,Puerto Rico,27281
+27322,Rhode Island,27281
+27323,South Carolina,27281
+27324,South Dakota,27281
+193,Tennessee,27281
+27326,Texas,27281
+27328,Utah,27281
+27329,Vermont,27281
+33605,Virgin Islands,27281
+27330,Virginia,27281
+27332,West Virginia,27281
+27331,Washington,27281
+27333,Wisconsin,27281
+27334,Wyoming,27281
+32044,Midwest,32043
+32045,Northeast,32043
+32046,South,32043
+32047,West,32043
+32062,Far West,32061
+32063,Great Lakes,32061
+32064,Mideast,32061
+32065,New England,32061
+32066,Plains,32061
+32067,Rocky Mountain,32061
+32068,Southeast,32061
+32069,Southwest,32061
+32851,Midwest Urban,32849
+32850,Northeast Urban,32849
+32852,South Urban,32849
+32853,West Urban,32849
+32860,"Population Size Class A (over 1,500,000)",32849
+32861,"Population Size Class B/C (between 50,000 and 1,500,000)",32849
+32862,"Population Size Class D (under 50,000)",32849
+32146,Atlanta,32071
+32147,Boston,32071
+32148,Chicago,32071
+32149,Cleveland,32071
+32150,Dallas,32071
+32151,Kansas City,32071
+32152,Minneapolis,32071
+32153,New York,32071
+32154,Philadelphia,32071
+32155,Richmond,32071
+32156,San Francisco,32071
+133,St. Louis,32071
+32236,North Central,32233
+32234,Northeast,32233
+32235,Southeast,32233
+32237,Southwest,32233
+32238,West,32233
+33835,Section 1. General Statistics of All Banks in the United States,33833
+33837,Section 2. Assets and Liabilities of All Member Banks,33833
+33062,Production of Commodities,33061
+33063,Construction,33061
+33064,Transportation and Public Utilities,33061
+33065,Prices,33061
+33066,Stocks of Commodities,33061
+33067,Distribution of Commodities,33061
+33068,Foreign Trade,33061
+33069,Income and Employment,33061
+33070,Financial Status of Business,33061
+33071,Savings and Investment,33061
+33072,Security Markets,33061
+33073,Volume of Transactions,33061
+33074,Interest Rates,33061
+33075,Money and Banking,33061
+33076,Government and Finance,33061
+33077,Leading Indicators,33061
+33107,Component Shares of GDP per Capita (Constant Prices),33100
+33106,Component Shares of GDP per Capita (Current Prices),33100
+33102,Exchange Rates,33100
+33110,GDP per Capita (Current Prices),33100
+33112,"Gross Domestic Income, Adjustments for Changes in Terms of Trade",33100
+33105,Openness,33100
+33101,Population,33100
+33104,"Price Levels of GDP, Consumption, Government, and Investment",33100
+33103,Purchasing Power Parity,33100
+33118,Purchasing Power Parity Converted GDP,33100
+33108,Ratio of GNP to GDP,33100
+33111,Real GDP per Capita (Constant Prices),33100
+33109,Real GDP per Capita Relative to U.S.,33100
+33113,Real GDP per Equivalent Adult,33100
+33117,Real GDP per Hour Worked by Employees,33100
+33115,Real GDP per Person Engaged,33100
+33116,Real GDP per Person Counted in Total Employment,33100
+33114,Real GDP per Worker,33100
+33403,"Real GDP, Employment and Population Levels",33402
+33404,"Current Price GDP, Capital and Total Factor Productivity",33402
+33405,National Accounts-Based Variables,33402
+33406,Exchange Rates and GDP Price Levels,33402
+33407,Shares in Output-side Real GDP at Current Purchasing Power Parities,33402
+33408,"Price Levels, Expenditure Categories and Capital",33402
+33845,National Accounts,33839
+33843,"Labour, Capital and Productivity",33839
+33847,Wages and Prices,33839
+33849,Financial Markets,33839
+33851,Money and Credit,33839
+33853,Fiscal,33839
+33855,Trade,33839
+287,Australia,158
+286,Austria,158
+285,Belgium,158
+284,Brazil,158
+283,Canada,158
+282,China,158
+281,Denmark,158
+280,Euro,158
+279,Finland,158
+278,France,158
+277,Germany,158
+274,Greece,158
+273,Hong Kong,158
+272,India,158
+271,Ireland,158
+276,Italy,158
+275,Japan,158
+270,Malaysia,158
+269,Mexico,158
+268,Netherlands,158
+266,New Zealand,158
+265,Norway,158
+264,Portugal,158
+263,Singapore,158
+262,South Africa,158
+261,South Korea,158
+260,Spain,158
+259,Sri Lanka,158
+258,Sweden,158
+257,Switzerland,158
+267,Taiwan,158
+254,Thailand,158
+191,United Kingdom,158
+192,Venezuela,158
+32413,BofA Merrill Lynch Total Bond Return Index Values,32414
+33078,All Commercial Banks,100
+33079,Domestically Chartered Commercial Banks,100
+33080,Foreign-Related Institutions,100
+33081,Large Domestically Chartered Commercial Banks,100
+33082,Small Domestically Chartered Commercial Banks,100
+93,United States,83
+84,New England Census Division,83
+85,Middle Atlantic Census Division,83
+86,East North Central Census Division,83
+87,West North Central Census Division,83
+88,South Atlantic Census Division,83
+89,East South Central Census Division,83
+90,West South Central Census Division,83
+91,Mountain Census Division,83
+92,Pacific Census Division,83
+72,8th District,64
+65,Arkansas,64
+66,Illinois,64
+67,Indiana,64
+68,Kentucky,64
+69,Mississippi,64
+70,Missouri,64
+71,Tennessee,64
+32407,All Commercial Banks,32406
+32408,Domestic Banks,32406
+32409,Foreign Banks,32406
+32410,Large Domestic Banks,32406
+32411,Small Domestic Banks,32406
+32412,Summary Statistics,32406
+32362,All Commercial and Industrial Loans,32361
+32369,Base Rate of Loans,32361
+32364,Daily Repricing/Maturity Interval,32361
+32367,More Than 365 Days Repricing/Maturity Interval,32361
+32368,Size of Loans,32361
+32366,31 to 365 Days Repricing/Maturity Interval,32361
+32365,2 to 30 Days Repricing/Maturity Interval,32361
+32363,Zero Repricing/Maturity Interval,32361
+32371,All Commercial and Industrial Loans,32370
+32375,Base Rate of Loans,32370
+32372,Daily Repricing/Maturity Interval,32370
+32373,More Than 365 Days Repricing/Maturity Interval,32370
+32374,Size of Loans,32370
+32376,31 to 365 Days Repricing/Maturity Interval,32370
+32377,2 to 30 Days Repricing/Maturity Interval,32370
+32378,Zero Repricing/Maturity Interval,32370
+32380,All Commercial and Industrial Loans,32379
+32381,Base Rate of Loans,32379
+32382,Daily Repricing/Maturity Interval,32379
+32383,More Than 365 Days Repricing/Maturity Interval,32379
+32384,Size of Loans,32379
+32385,31 to 365 Days Repricing/Maturity Interval,32379
+32386,2 to 30 Days Repricing/Maturity Interval,32379
+32387,Zero Repricing/Maturity Interval,32379
+32389,All Commercial and Industrial Loans,32388
+32390,Base Rate of Loans,32388
+32391,Daily Repricing/Maturity Interval,32388
+32392,More Than 365 Days Repricing/Maturity Interval,32388
+32393,Size of Loans,32388
+32394,31 to 365 Days Repricing/Maturity Interval,32388
+32395,2 to 30 Days Repricing/Maturity Interval,32388
+32396,Zero Repricing/Maturity Interval,32388
+32398,All Commercial and Industrial Loans,32397
+32399,Base Rate of Loans,32397
+32400,Daily Repricing/Maturity Interval,32397
+32401,More Than 365 Days Repricing/Maturity Interval,32397
+32402,Size of Loans,32397
+32403,31 to 365 Days Repricing/Maturity Interval,32397
+32404,2 to 30 Days Repricing/Maturity Interval,32397
+32405,Zero Repricing/Maturity Interval,32397
+32352,Durable Goods,32349
+32353,Nondurable Goods,32349
+33042,Capital Transfers Paid,112
+33043,Capital Transfers Received,112
+33040,Consumptions of Fixed Capital,112
+33041,Corporate Capital Consumption,112
+33037,Domestic Investments,112
+33038,Inventories,112
+33044,Noncorporate Business,112
+33039,Private Fixed Investments,112
+33018,Exports,108
+33019,Imports,108
+33699,Net Stocks,33697
+33701,Depreciation,33697
+33703,Fixed Investment,33697
+33020,Shares of GDP,106
+33022,Gov't Consumption Expenditures,107
+33024,Gov't Current Expenditures,107
+33025,Gov't Current Transfer Receipts,107
+33027,Gov't Fixed Investment,107
+33023,Gov't Investment,107
+33026,Gov't Social Benefits,107
+33883,Administrative and Waste Management Services,33045
+33859,"Agriculture, Forestry, Fishing, and Hunting",33045
+33887,"Arts, Entertainment, Recreation, Accommodation, and Food Services",33045
+33046,Auto Output,33045
+33865,Construction,33045
+33885,"Educational Services, Health Care, and Social Assistance",33045
+33047,Farm Output,33045
+33877,"Finance, Insurance, Real Estate, Rental, and Leasing",33045
+33050,Full-time Equivalent Employees,33045
+33049,Full-time & Part-time Employees,33045
+33889,Government,33045
+33048,Households,33045
+33053,Imputed Interest,33045
+33875,Information,33045
+33881,Management Of Companies and Enterprises,33045
+33867,Manufacturing,33045
+33861,Mining,33045
+33052,Persons Engaged in Production,33045
+33879,Professional and Business Services,33045
+33871,Retail Trade,33045
+33051,Self-employed Persons,33045
+33873,Transportation and Warehousing,33045
+33863,Utilities,33045
+33869,Wholesale Trade,33045
+33029,Compensation of Employees,110
+33031,Employer Contributions,110
+33028,Personal Consumption Expenditures,110
+33032,Personal Current Taxes,110
+33030,Wage and Salary Accruals,110
+33035,Corporate Dividends,109
+33033,Corporate Profits,109
+33036,Proprietorship,109
+33034,Taxes on Corporate Income,109
+33564,Accommodation Services,33583
+33548,Advertising Space and Time Sales,33583
+33533,Chemicals and Allied Products,33583
+33560,Cleaning and Building Maintenance Services,33583
+33573,Construction,33583
+33572,"Contract Work on Textile Products, Apparel, and Leather",33583
+33551,Credit Intermediation Services,33583
+33550,Data Processing and Related Services,33583
+33574,Durability of Product,33583
+33563,Educational Services,33583
+33557,Employment Services,33583
+33567,Entertainment Services,33583
+33528,Farm Products,33583
+33575,Final Demand,33583
+33565,Food and Beverage for Immediate Consumption Services,33583
+33532,Fuels and Related Products and Power,33583
+33539,Furniture and Household Durables,33583
+33561,Health Care Services,33583
+33531,"Hides, Skins, Leather, and Related Products",33583
+33582,Inputs to Industries,33583
+33553,Insurance and Annuities,33583
+33577,Intermediate Demand By Commodity Type,33583
+33576,Intermediate Demand By Production Flow,33583
+33552,Investment Services,33583
+33535,Lumber and Wood Products,33583
+33538,Machinery and Equipment,33583
+33570,Metal Treatment Services,33583
+33537,Metals and Metal Products,33583
+33571,Mining Services,33583
+33542,Miscellaneous Products,33583
+33547,Network Compensation from Broadcast and Cable Television and Radio,33583
+33540,Nonmetallic Mineral Products,33583
+33529,Processed Foods and Feeds,33583
+33556,Professional Services,33583
+33545,"Publishing Sales, Excluding Software",33583
+33536,"Pulp, Paper, and Allied Products",33583
+33554,Real Estate Services,33583
+33555,Rental and Leasing of Goods,33583
+33566,Repair and Maintenance Services,33583
+33569,Retail Trade Services,33583
+33534,Rubber and Plastic Products,33583
+33559,Selected Security Services,33583
+33546,Software Publishing,33583
+33580,Special Indexes,33583
+33581,Stage of Processing,33583
+33549,"Telecommunication, Cable, and Internet User Services",33583
+33530,Textile Products and Apparel,33583
+33541,Transportation Equipment,33583
+33543,Transportation Services,33583
+33558,Travel Arrangement Services,33583
+33544,"Warehousing, Storage, and Related Services",33583
+33562,Waste Collection and Remediation Services,33583
+33568,Wholesale Trade Services,33583
+33586,Accommodation and Food Services,33584
+33588,Administrative and Support and Waste Management and Remediation Services,33584
+33585,"Agriculture, Forestry, Fishing and Hunting",33584
+33587,"Arts, Entertainment, and Recreation",33584
+33589,Construction,33584
+33591,Educational Services,33584
+33590,Finance and Insurance,33584
+33593,Health Care and Social Assistance,33584
+33592,Information,33584
+33597,Manufacturing,33584
+33596,"Mining, Quarrying, and Oil and Gas Extraction",33584
+33594,Other Services (except Public Administration),33584
+33599,"Professional, Scientific, and Technical Services",33584
+33595,Public Administration,33584
+33598,Real Estate and Rental and Leasing,33584
+33600,Retail Trade,33584
+33601,Transportation and Warehousing,33584
+33602,Utilities,33584
+33603,Wholesale Trade,33584
+32223,End Use Classification System,32221
+32229,By Harmonized System,32221
+32226,By NAICS,32221
+32230,By Locality of Origin,32221
+33907,Standard International Trade Classification,32221
+32225,End Use Classification System,32224
+32227,By NAICS,32224
+32228,By Harmonized System,32224
+33905,Standard International Trade Classification,32224
+32968,Eastern Africa,32963
+32969,Middle Africa,32963
+32970,Northern Africa,32963
+32971,Southern Africa,32963
+32972,Western Africa,32963
+32973,Latin America and the Caribbean,32964
+32974,Northern America,32964
+32975,Central Asia,32965
+32976,Eastern Asia,32965
+32977,Southern Asia,32965
+32978,South-Eastern Asia,32965
+32979,Western Asia,32965
+32980,Eastern Europe,32966
+32981,Northern Europe,32966
+32982,Southern Europe,32966
+32983,Western Europe,32966
+32984,Australia and New Zealand,32967
+32985,Melanesia,32967
+32986,Micronesia,32967
+32987,Polynesia,32967
+33185,Banking,33000
+33195,Business Lending,33000
+33099,Financial Indicators,33000
+33191,Financial Institutions,33000
+32954,Financial Stress Indicators,33000
+32949,Interest Rates,33000
+32950,Monetary Data,33000
+32952,Reserves & Monetary Base,33000
+33210,Exchange Rate,33000
+32951,Balance of Payments,32997
+32291,GDP,32997
+33196,GNP,32997
+33097,International Trade and Transactions,32997
+32458,Government Debt,32997
+33206,Trade & International Transactions,32997
+33232,National Income & Product Accounts,32997
+33526,Education,32999
+32283,Employment,32999
+33218,Employment Population Ratio,32999
+33525,Income Distribution,32999
+33215,Job Openings and Labor Turnover,32999
+32285,Labor Force,32999
+33217,Labor Force Participation Rate,32999
+33213,Labor Compensation,32999
+32292,Population,32999
+33212,Productivity & Costs,32999
+32284,Unemployment,32999
+33214,Unemployment Level,32999
+33219,Unemployment Rate,32999
+33829,Migration,32999
+33527,Cell Phone Usage,32294
+33092,Construction,32294
+33090,Industrial Production & Capacity Utilization,32294
+33192,Insurance,32294
+33499,Internet Users,32294
+32437,Manufacturing,32294
+32953,Real Estate,32294
+33088,Retail Sales,32294
+33209,Business Tendency Surveys,32294
+33222,Housing,32294
+33229,Wholesale,32294
+33827,Ease of Doing Business,32294
+32266,Consumer Price Indexes,32998
+32427,Producer Price Indexes,32998
+33129,Trade Indexes,32998
+33226,Wholesale,32998
+33503,House Prices,32998
+33255,Construction,33254
+33262,Economic Situation,33261
+33268,Consumer prices (inflation),33261
+33275,Confidence indicators,33274
+33295,Order books,33274
+33313,Employment,33274
+33319,Selling prices,33274
+33325,Business situation - Activity,33274
+33282,Confidence Indicators,33281
+33289,Confidence indicators,33288
+33301,Finished goods stocks,33288
+33307,Order books,33288
+33331,Business situation,33288
+33345,Employment,33344
+33351,Business situation - Activity,33344
+33357,Volume of stocks,33344
+33375,Confidence indicators,33344
+33369,Employment,33368
+27335,Counties,27282
+30529,MSAs,27282
+27403,Census Areas and Boroughs,27283
+32907,CPI for MSAs and Consolidated MSAs,27283
+33745,Metropolitan Divisions,27283
+30542,MSAs,27283
+27429,Counties,27284
+30545,MSAs,27284
+32942,CPI for MSAs and Consolidated MSAs,27284
+27445,Counties,149
+30551,MSAs,149
+27521,Counties,27286
+30560,MSAs,27286
+32903,CPI for MSAs and Consolidated MSAs,27286
+33159,Metropolitan Divisions,27286
+27580,Counties,27287
+30587,MSAs,27287
+32944,CPI for MSAs and Consolidated MSAs,27287
+27644,Counties,27288
+32872,CPI for MSAs and Consolidated MSAs,27288
+30595,MSAs,27288
+32083,New England City and Town Areas,27288
+27653,Counties,27289
+30600,MSAs,27289
+32879,CPI for MSAs and Consolidated MSAs,27289
+33183,Metropolitan Divisions,27289
+33507,Counties,27290
+30603,MSAs,27290
+32920,CPI for MSAs and Consolidated MSAs,27290
+33177,Metropolitan Divisions,27290
+27659,Counties,27291
+30605,MSAs,27291
+32901,CPI for MSAs and Consolidated MSAs,27291
+33153,Metropolitan Divisions,27291
+27727,Counties,27292
+30625,MSAs,27292
+32899,CPI for MSAs and Consolidated MSAs,27292
+27887,Counties,27293
+30641,MSAs,27293
+33715,Metropolitan Areas,27293
+32940,CPI for MSAs and Consolidated MSAs,27293
+27893,Counties,27294
+30643,MSAs,27294
+27938,Counties,150
+30650,MSAs,150
+32883,CPI for MSAs and Consolidated MSAs,150
+33144,Metropolitan Divisions,150
+28041,Counties,151
+30662,MSAs,151
+32885,CPI for MSAs and Consolidated MSAs,151
+33157,Metropolitan Divisions,151
+28134,Counties,27297
+30679,MSAs,27297
+28234,Counties,27298
+30689,MSAs,27298
+33462,Metropolitan Areas,27298
+28340,Counties,152
+30695,MSAs,152
+32932,CPI for MSAs and Consolidated MSAs,152
+28461,Parishes,27300
+30705,MSAs,27300
+28526,Counties,27301
+32084,New England City and Town Areas,27301
+30714,MSAs,27301
+32915,CPI for MSAs and Consolidated MSAs,27301
+28543,Counties,27302
+33452,Metropolitan Areas,27302
+33130,Metropolitan Divisions,27302
+30718,MSAs,27302
+32881,CPI for MSAs and Consolidated MSAs,27302
+28568,Counties,27303
+32085,New England City and Town Areas,27303
+30725,MSAs,27303
+32911,CPI for MSAs and Consolidated MSAs,27303
+33134,Metropolitan Divisions,27303
+28583,Counties,27304
+30732,MSAs,27304
+32889,CPI for MSAs and Consolidated MSAs,27304
+33150,Metropolitan Divisions,27304
+28667,Counties,27305
+30748,MSAs,27305
+32927,CPI for MSAs and Consolidated MSAs,27305
+28755,Counties,153
+30756,MSAs,153
+28838,Counties,154
+30762,MSAs,154
+32891,CPI for MSAs and Consolidated MSAs,154
+33464,Metropolitan Areas,154
+28954,Counties,27308
+30771,MSAs,27308
+29012,Counties,27309
+30775,MSAs,27309
+29106,Counties,27310
+30779,MSAs,27310
+29124,Counties,27311
+30783,MSAs,27311
+32086,New England City and Town Areas,27311
+32913,CPI for MSAs and Consolidated MSAs,27311
+33170,Metropolitan Divisions,27311
+29135,Counties,27312
+30786,MSAs,27312
+32870,CPI for MSAs and Consolidated MSAs,27312
+33138,Metropolitan Divisions,27312
+33467,Metropolitan Areas,27312
+29157,Counties,27313
+30794,MSAs,27313
+29191,Counties,27314
+30799,MSAs,27314
+32868,CPI for MSAs and Consolidated MSAs,27314
+33164,Metropolitan Divisions,27314
+33469,Metropolitan Areas,27314
+29254,Counties,27315
+30812,MSAs,27315
+29355,Counties,27316
+30828,MSAs,27316
+29409,Counties,27317
+30832,MSAs,27317
+32918,CPI for MSAs and Consolidated MSAs,27317
+29498,Counties,27318
+30849,MSAs,27318
+29576,Counties,27319
+30854,MSAs,27319
+32937,CPI for MSAs and Consolidated MSAs,27319
+29613,Counties,27320
+30861,MSAs,27320
+32874,CPI for MSAs and Consolidated MSAs,27320
+33167,Metropolitan Divisions,27320
+33472,Metropolitan Areas,27320
+33505,Counties,33504
+33475,MSAs,33504
+29682,Counties,27322
+30879,MSAs,27322
+32087,New England City and Town Areas,27322
+29688,Counties,27323
+30881,MSAs,27323
+29735,Counties,27324
+30892,MSAs,27324
+29802,Counties,193
+30896,MSAs,193
+29898,Counties,27326
+30907,MSAs,27326
+32897,CPI for MSAs and Consolidated MSAs,27326
+33147,Metropolitan Divisions,27326
+30154,Counties,27328
+30934,MSAs,27328
+30184,Counties,27329
+32088,New England City and Town Areas,27329
+30940,MSAs,27329
+30199,Counties,27330
+30942,MSAs,27330
+32923,CPI for MSAs and Consolidated MSAs,27330
+33179,Metropolitan Divisions,27330
+33484,Metropolitan Areas,27330
+30376,Counties,27332
+30968,MSAs,27332
+32925,CPI for MSAs and Consolidated MSAs,27332
+33181,Metropolitan Divisions,27332
+30336,Counties,27331
+30955,MSAs,27331
+32905,CPI for MSAs and Consolidated MSAs,27331
+33172,Metropolitan Divisions,27331
+30432,Counties,27333
+30979,MSAs,27333
+32887,CPI for MSAs and Consolidated MSAs,27333
+33175,Metropolitan Divisions,27333
+30505,Counties,27334
+30995,MSAs,27334
+32048,Census Divisions,32044
+32051,Census Divisions,32045
+32054,Census Divisions,32046
+32058,Census Divisions,32047
+32854,"Population Size Class A (over 1,500,000)",32851
+32855,"Population Size Class B/C (between 50,000 and 1,500,000)",32851
+32856,"Population Size Class D (under 50,000)",32851
+32857,"Population Size Class A (over 1,500,000)",32850
+32858,"Population Size Class B/C (between 50,000 and 1,500,000)",32850
+32863,"Population Size Class A (over 1,500,000)",32852
+32865,"Population Size Class B/C (between 50,000 and 1,500,000)",32852
+32867,"Population Size Class D (under 50,000)",32852
+32864,"Population Size Class A (over 1,500,000)",32853
+32866,"Population Size Class B/C (between 50,000 and 1,500,000)",32853
+32157,States in District,32146
+32158,Counties in District,32146
+32159,MSAs in District,32146
+32162,States in District,32147
+32163,Counties in District,32147
+32164,MSAs in District,32147
+32167,States in District,32148
+32168,Counties in District,32148
+32169,MSAs in District,32148
+32172,States in District,32149
+32173,Counties in District,32149
+32174,MSAs in District,32149
+32177,States in District,32150
+32178,Counties in District,32150
+32179,MSAs in District,32150
+32182,States in District,32151
+32183,Counties in District,32151
+32184,MSAs in District,32151
+32187,States in District,32152
+32188,Counties in District,32152
+32189,MSAs in District,32152
+32192,States in District,32153
+32193,Counties in District,32153
+32194,MSAs in District,32153
+32197,States in District,32154
+32198,Counties in District,32154
+32199,MSAs in District,32154
+32202,States in District,32155
+32203,Counties in District,32155
+32204,MSAs in District,32155
+32207,States in District,32156
+32208,Counties in District,32156
+32209,MSAs in District,32156
+32073,States in District,133
+32072,Counties in District,133
+32074,MSAs in District,133
