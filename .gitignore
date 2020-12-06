@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 .Renviron
+FredData.ods
+FredData_fromAPI.csv
+getFREDdata.R
